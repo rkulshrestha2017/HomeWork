@@ -1,0 +1,558 @@
+,Compound_Score,Date,Followers,Negative_Score,Neutral_Score,Positive_Score,Screen_Name,Tweet_Text
+0,-0.4404,Fri Feb 02 16:59:34 +0000 2018,36868459,0.272,0.617,0.111,BBC Breaking News,President Trump approves release of controversial memo that is thought to accuse the FBI of abusing its powers https://t.co/YDGyaVkZ6a
+1,-0.128,Fri Feb 02 14:22:13 +0000 2018,36868459,0.218,0.661,0.121,BBC Breaking News,Father of victim tries to attack disgraced US Olympic gym doctor Larry Nassar in court but is tackled by security https://t.co/sdj8xYCC0P
+2,-0.7845,Fri Feb 02 12:55:15 +0000 2018,36868459,0.277,0.723,0.0,BBC Breaking News,"Finsbury Park attacker Darren Osborne, who drove a van into Muslims, jailed for life, with minimum term of 43 years https://t.co/KJs71UDVUo"
+3,-0.7964,Fri Feb 02 10:20:23 +0000 2018,36868459,0.321,0.679,0.0,BBC Breaking News,"Ninety migrants feared drowned after boat capsizes off Libyan coast, with just three survivors, says UN https://t.co/MIpVFAOC4Q"
+4,-0.6908,Fri Feb 02 09:00:47 +0000 2018,36868459,0.305,0.695,0.0,BBC Breaking News,"Two army helicopters collide in southern France, killing at least five people, reports say https://t.co/f4Vj0KYcv0"
+5,-0.4019,Fri Feb 02 03:47:03 +0000 2018,36868459,0.137,0.863,0.0,BBC Breaking News,"At least 18 people injured as a van hits pedestrians outside a Starbucks cafe in Shanghai, China - cause unknown https://t.co/RVznKpgZGA"
+6,-0.6486,Fri Feb 02 01:54:41 +0000 2018,36868459,0.235,0.765,0.0,BBC Breaking News,"Son of Cuba's ex-leader Fidel Castro found dead, having reportedly taken his own life https://t.co/n8SuU2zAyV"
+7,-0.9217,Thu Feb 01 15:53:46 +0000 2018,36868459,0.404,0.596,0.0,BBC Breaking News,"Man who drove van into crowd of people near mosque in Finsbury Park, London, guilty of murder and attempted murder https://t.co/LEvqxdaruA"
+8,-0.4767,Thu Feb 01 11:13:30 +0000 2018,36868459,0.171,0.829,0.0,BBC Breaking News,Kenyan government shutdown of three largest private TV channels suspended by court pending full hearing https://t.co/LlcKVIDRB2
+9,-0.8834,Wed Jan 31 18:09:10 +0000 2018,36868459,0.484,0.516,0.0,BBC Breaking News,"Prisoner stabbed to death at Wormwood Scrubs jail, in west London, police confirm https://t.co/UTDxfOtglV"
+10,0.0,Wed Jan 31 02:02:15 +0000 2018,36868459,0.0,1.0,0.0,BBC Breaking News,Watch US President Donald Trump's first State of the Union address live here https://t.co/4F1z9xhir2
+11,0.0772,Tue Jan 30 23:48:58 +0000 2018,36868459,0.0,0.92,0.08,BBC Breaking News,"US President Donald Trump to hail ""New American Moment"" in State of the Union address https://t.co/XA5KcQScxr"
+12,-0.0772,Tue Jan 30 22:09:32 +0000 2018,36868459,0.121,0.769,0.109,BBC Breaking News,"The Afghan Taliban, whom US-led forces spent billions of dollars trying to defeat, are now openly active in 70% of… https://t.co/qJZVdkI4K2"
+13,-0.8555,Tue Jan 30 18:54:45 +0000 2018,36868459,0.387,0.446,0.167,BBC Breaking News,"Glee actor Mark Salling, who admitted possessing child sex abuse images, found dead in an apparent suicide, US medi… https://t.co/iur9yP4hi1"
+14,-0.1027,Tue Jan 30 17:14:20 +0000 2018,36868459,0.069,0.931,0.0,BBC Breaking News,"Four ringleaders behind the Hatton Garden raid must pay a total of £27.5m or serve another 7 years in jail, a Londo… https://t.co/zClw9WdOPH"
+15,-0.8957,Tue Jan 30 13:28:03 +0000 2018,36868459,0.44,0.56,0.0,BBC Breaking News,"Homeless Chris Parker, who stole from Manchester Arena bomb attack victims, jailed for four years and three months https://t.co/7qTAklSDIl"
+16,-0.8316,Tue Jan 30 11:09:06 +0000 2018,36868459,0.4,0.5,0.1,BBC Breaking News,.@metpoliceuk apologise to student Liam Allan for errors in handling of failed rape case against him https://t.co/iDHMglsnwj
+17,0.2023,Mon Jan 29 22:28:59 +0000 2018,36868459,0.0,0.899,0.101,BBC Breaking News,"Irish government agrees to hold referendum on liberalising abortion laws at end of May, PM says https://t.co/1dOkBFyRSo"
+18,-0.2023,Mon Jan 29 22:01:20 +0000 2018,36868459,0.087,0.913,0.0,BBC Breaking News,"CIA director tells the BBC he sees Russia as an adversary, expects it to target the US mid-term elections https://t.co/qZ6MCJVUdD"
+19,-0.3818,Mon Jan 29 17:43:15 +0000 2018,36868459,0.175,0.825,0.0,BBC Breaking News,"FBI Deputy Director Andrew McCabe, who President Trump accused of political bias, is stepping down early - US media https://t.co/KUOvwrljy2"
+20,-0.4404,Fri Feb 02 16:59:34 +0000 2018,36868459,0.272,0.617,0.111,BBC Breaking News,President Trump approves release of controversial memo that is thought to accuse the FBI of abusing its powers https://t.co/YDGyaVkZ6a
+21,-0.128,Fri Feb 02 14:22:13 +0000 2018,36868459,0.218,0.661,0.121,BBC Breaking News,Father of victim tries to attack disgraced US Olympic gym doctor Larry Nassar in court but is tackled by security https://t.co/sdj8xYCC0P
+22,-0.7845,Fri Feb 02 12:55:15 +0000 2018,36868459,0.277,0.723,0.0,BBC Breaking News,"Finsbury Park attacker Darren Osborne, who drove a van into Muslims, jailed for life, with minimum term of 43 years https://t.co/KJs71UDVUo"
+23,-0.7964,Fri Feb 02 10:20:23 +0000 2018,36868459,0.321,0.679,0.0,BBC Breaking News,"Ninety migrants feared drowned after boat capsizes off Libyan coast, with just three survivors, says UN https://t.co/MIpVFAOC4Q"
+24,-0.6908,Fri Feb 02 09:00:47 +0000 2018,36868459,0.305,0.695,0.0,BBC Breaking News,"Two army helicopters collide in southern France, killing at least five people, reports say https://t.co/f4Vj0KYcv0"
+25,-0.4019,Fri Feb 02 03:47:03 +0000 2018,36868459,0.137,0.863,0.0,BBC Breaking News,"At least 18 people injured as a van hits pedestrians outside a Starbucks cafe in Shanghai, China - cause unknown https://t.co/RVznKpgZGA"
+26,-0.6486,Fri Feb 02 01:54:41 +0000 2018,36868459,0.235,0.765,0.0,BBC Breaking News,"Son of Cuba's ex-leader Fidel Castro found dead, having reportedly taken his own life https://t.co/n8SuU2zAyV"
+27,-0.9217,Thu Feb 01 15:53:46 +0000 2018,36868459,0.404,0.596,0.0,BBC Breaking News,"Man who drove van into crowd of people near mosque in Finsbury Park, London, guilty of murder and attempted murder https://t.co/LEvqxdaruA"
+28,-0.4767,Thu Feb 01 11:13:30 +0000 2018,36868459,0.171,0.829,0.0,BBC Breaking News,Kenyan government shutdown of three largest private TV channels suspended by court pending full hearing https://t.co/LlcKVIDRB2
+29,-0.8834,Wed Jan 31 18:09:10 +0000 2018,36868459,0.484,0.516,0.0,BBC Breaking News,"Prisoner stabbed to death at Wormwood Scrubs jail, in west London, police confirm https://t.co/UTDxfOtglV"
+30,0.0,Wed Jan 31 02:02:15 +0000 2018,36868459,0.0,1.0,0.0,BBC Breaking News,Watch US President Donald Trump's first State of the Union address live here https://t.co/4F1z9xhir2
+31,0.0772,Tue Jan 30 23:48:58 +0000 2018,36868459,0.0,0.92,0.08,BBC Breaking News,"US President Donald Trump to hail ""New American Moment"" in State of the Union address https://t.co/XA5KcQScxr"
+32,-0.0772,Tue Jan 30 22:09:32 +0000 2018,36868459,0.121,0.769,0.109,BBC Breaking News,"The Afghan Taliban, whom US-led forces spent billions of dollars trying to defeat, are now openly active in 70% of… https://t.co/qJZVdkI4K2"
+33,-0.8555,Tue Jan 30 18:54:45 +0000 2018,36868459,0.387,0.446,0.167,BBC Breaking News,"Glee actor Mark Salling, who admitted possessing child sex abuse images, found dead in an apparent suicide, US medi… https://t.co/iur9yP4hi1"
+34,-0.1027,Tue Jan 30 17:14:20 +0000 2018,36868459,0.069,0.931,0.0,BBC Breaking News,"Four ringleaders behind the Hatton Garden raid must pay a total of £27.5m or serve another 7 years in jail, a Londo… https://t.co/zClw9WdOPH"
+35,-0.8957,Tue Jan 30 13:28:03 +0000 2018,36868459,0.44,0.56,0.0,BBC Breaking News,"Homeless Chris Parker, who stole from Manchester Arena bomb attack victims, jailed for four years and three months https://t.co/7qTAklSDIl"
+36,-0.8316,Tue Jan 30 11:09:06 +0000 2018,36868459,0.4,0.5,0.1,BBC Breaking News,.@metpoliceuk apologise to student Liam Allan for errors in handling of failed rape case against him https://t.co/iDHMglsnwj
+37,0.2023,Mon Jan 29 22:28:59 +0000 2018,36868459,0.0,0.899,0.101,BBC Breaking News,"Irish government agrees to hold referendum on liberalising abortion laws at end of May, PM says https://t.co/1dOkBFyRSo"
+38,-0.2023,Mon Jan 29 22:01:20 +0000 2018,36868459,0.087,0.913,0.0,BBC Breaking News,"CIA director tells the BBC he sees Russia as an adversary, expects it to target the US mid-term elections https://t.co/qZ6MCJVUdD"
+39,-0.3818,Mon Jan 29 17:43:15 +0000 2018,36868459,0.175,0.825,0.0,BBC Breaking News,"FBI Deputy Director Andrew McCabe, who President Trump accused of political bias, is stepping down early - US media https://t.co/KUOvwrljy2"
+40,-0.1531,Mon Jan 29 14:14:42 +0000 2018,36868459,0.124,0.787,0.09,BBC Breaking News,"Doctors can stop life-support treatment to brain-damaged 11-month-old against parents' wishes, High Court judge says https://t.co/mXIxyLTaTm"
+41,0.802,Mon Jan 29 04:01:57 +0000 2018,36868459,0.0,0.644,0.356,BBC Breaking News,".@BrunoMars wins #GRAMMYs award for 'Album of the Year' for 24K Magic
+
+Full coverage: https://t.co/fI4XjghVUA"
+42,0.802,Mon Jan 29 03:34:43 +0000 2018,36868459,0.0,0.644,0.356,BBC Breaking News,".@BrunoMars wins #GRAMMYs award for 'Record of the Year' for 24K Magic
+
+Full coverage: https://t.co/fI4XjghVUA"
+43,0.8658,Mon Jan 29 02:57:27 +0000 2018,36868459,0.0,0.573,0.427,BBC Breaking News,".@BrunoMars wins Grammy 'Song of the Year' award for That's What I Like
+
+Full #GRAMMYs coverage: https://t.co/fI4XjghVUA"
+44,0.0,Mon Jan 29 02:13:28 +0000 2018,36868459,0.0,1.0,0.0,BBC Breaking News,"Heavy gunfire and explosions heard at a military academy in Afghan capital, Kabul, media report. https://t.co/V90rFQnPNP"
+45,-0.8834,Sun Jan 28 20:48:54 +0000 2018,36868459,0.377,0.623,0.0,BBC Breaking News,"Man being sought by police investigating car crash that killed three teenagers in London has been arrested, Met says https://t.co/0DkmhsgmrZ"
+46,0.6249,Sun Jan 28 11:38:27 +0000 2018,36868459,0.089,0.683,0.229,BBC Breaking News,"RT @BBCSport: That's why they call him the #GOAT.
+
+Roger Federer has won his SIXTH #ausopen and his TWENTIETH Grand Slam title.
+
+Absolutely…"
+47,-0.5574,Sun Jan 28 10:41:07 +0000 2018,36868459,0.205,0.795,0.0,BBC Breaking News,"Swedish founder of Ikea furniture chain, Ingvar Kamprad, has died at 91, company announces https://t.co/1qUI7wggGn"
+48,0.5719,Sat Jan 27 14:48:51 +0000 2018,36868459,0.0,0.791,0.209,BBC Breaking News,"Czech President Milos Zeman wins a second five-year term after close vote, Czech media report https://t.co/eMr75odkTe"
+49,-0.9584,Sat Jan 27 14:14:53 +0000 2018,36868459,0.6,0.4,0.0,BBC Breaking News,"Kabul suicide bomb attack latest: 
+• 95 people killed 
+• 158 injured 
+officials in the Afghanistan capital say https://t.co/fL9SXNcHhm"
+50,-0.9403,Sat Jan 27 12:46:01 +0000 2018,36868459,0.677,0.323,0.0,BBC Breaking News,Death toll in Kabul suicide bomb attack rises to 63 https://t.co/xrx5R4O8Nq
+51,0.69,Sat Jan 27 11:26:30 +0000 2018,36868459,0.084,0.647,0.268,BBC Breaking News,"RT @BBCSport: We have a new world number one! 
+
+Caroline Wozniacki has won her first Grand Slam title at the #ausopen at her third attempt.…"
+52,-0.946,Sat Jan 27 10:29:43 +0000 2018,36868459,0.474,0.526,0.0,BBC Breaking News,LATEST: Taliban used ambulance to carry out suicide bomb attack in #Kabul which has killed at least 40 people - off… https://t.co/4sbHqfgXCs
+53,-0.8402,Sat Jan 27 09:57:13 +0000 2018,36868459,0.32,0.68,0.0,BBC Breaking News,"UPDATE: Taliban suicide bombing in Afghan capital Kabul kills at least 17 people and injures more than 100 
+
+https://t.co/deMItPEGWj"
+54,-0.802,Sat Jan 27 09:39:16 +0000 2018,36868459,0.375,0.625,0.0,BBC Breaking News,Six people confirmed killed and 79 injured by bombing in Afghan capital Kabul https://t.co/iQ1oNvTysP
+55,0.3182,Sat Jan 27 08:56:18 +0000 2018,36868459,0.0,0.827,0.173,BBC Breaking News,Casualties reported after huge explosion in centre of Afghan capital Kabul https://t.co/6io5rfRD31
+56,0.3612,Fri Jan 26 19:44:32 +0000 2018,36868459,0.096,0.742,0.162,BBC Breaking News,"Bombardier wins trade case in US, overturning decision to impose 292% tariffs on imports of its C-Series aircraft https://t.co/JflFAZbT3C"
+57,-0.6908,Fri Jan 26 18:21:10 +0000 2018,36868459,0.239,0.761,0.0,BBC Breaking News,"Deaths of Canadian billionaire couple Barry and Honey Sherman treated as murder, Toronto police say https://t.co/9t79aVw6wn"
+58,-0.2617,Fri Jan 26 13:28:45 +0000 2018,36868459,0.108,0.892,0.0,BBC Breaking News,"President Trump launches fierce attack on ""predatory"" trade practices but says ""America first is not America alone""… https://t.co/Tvr5mwTjj7"
+59,0.6705,Fri Jan 26 09:49:45 +0000 2018,36868459,0.0,0.756,0.244,BBC Breaking News,"UK economic growth is a better than expected 0.5% for the last three months of 2017, official figures show https://t.co/y844Op3z0O"
+60,-0.6705,Fri Jan 26 09:35:46 +0000 2018,36868459,0.256,0.744,0.0,BBC Breaking News,"President Trump dismisses as ""fake news"" reports he tried to fire Robert Mueller from Russia meddling probe https://t.co/J0Ysb8OZkX"
+61,0.5423,Fri Jan 26 07:11:38 +0000 2018,36868459,0.0,0.791,0.209,BBC Breaking News,Donald Trump has said he is prepared to apologise for retweeting posts from UK far-right group Britain First https://t.co/SDCbwTixnG
+62,-0.34,Fri Jan 26 01:51:02 +0000 2018,36868459,0.118,0.882,0.0,BBC Breaking News,"Pictures from the scene in South Korea as firefighters race to extinguish a deadly fire at Sejong Hospital, Miryang… https://t.co/tldPxzprk4"
+63,-0.743,Fri Jan 26 01:40:57 +0000 2018,36868459,0.31,0.69,0.0,BBC Breaking News,"Death toll from hospital fire in Miryang, South Korea, jumps to 31, local media say https://t.co/vLa72wc9M7"
+64,-0.7845,Fri Jan 26 01:21:32 +0000 2018,36868459,0.347,0.653,0.0,BBC Breaking News,"At least 15 people are killed by a fire at a hospital in Miryang, South Korea https://t.co/YzEFB4QMLG"
+65,0.6369,Thu Jan 25 21:08:36 +0000 2018,36868459,0.129,0.588,0.283,BBC Breaking News,Actor Casey Affleck pulls out of presenting best actress award at Oscars amid past allegations of sexual harassment https://t.co/thrGrvzbzI
+66,0.0772,Thu Jan 25 15:15:07 +0000 2018,36868459,0.141,0.705,0.154,BBC Breaking News,"Blaming the Palestinians, US President Donald Trump questions whether peace talks with Israel 'will ever take place' https://t.co/u1PDtOUwpO"
+67,-0.1877,Thu Jan 25 13:48:30 +0000 2018,36868459,0.104,0.896,0.0,BBC Breaking News,"Oprah Winfrey on running for president: ""It's not something that interests me"" - US magazine interview https://t.co/RwvDR1spW2"
+68,-0.0772,Thu Jan 25 10:58:48 +0000 2018,36868459,0.087,0.837,0.076,BBC Breaking News,"RT @bbctennis: The dream run is over for Kyle Edmund. 
+
+He loses in the #Ausopen semi-finals to Marin Cilic 6-2 7-6 6-2.
+
+Reaction: https:/…"
+69,0.3182,Thu Jan 25 10:09:29 +0000 2018,36868459,0.0,0.887,0.113,BBC Breaking News,"More than one in eight secondary schools in England below the standard deemed acceptable, league table data shows https://t.co/QSh7J31wcD"
+70,0.1027,Thu Jan 25 09:51:46 +0000 2018,36868459,0.0,0.862,0.138,BBC Breaking News,"Number of rough sleepers in England reach highest level since current records began - an estimated 4,751 https://t.co/yWBK2T5vPQ"
+71,-0.8591,Thu Jan 25 08:12:57 +0000 2018,36868459,0.388,0.612,0.0,BBC Breaking News,At least two people are killed and scores injured after train derails near Milan in northern Italy https://t.co/G8BEDQcZrO
+72,-0.5574,Wed Jan 24 20:22:00 +0000 2018,36868459,0.217,0.783,0.0,BBC Breaking News,"The Fall singer Mark E Smith has died aged 60, the band's manager says https://t.co/Oelr6KdsPg"
+73,-0.128,Wed Jan 24 18:40:12 +0000 2018,36868459,0.12,0.785,0.094,BBC Breaking News,Brazil's ex-President Lula loses appeal against corruption conviction in blow to his chances of regaining office https://t.co/TfMn4bQhTN
+74,-0.8126,Wed Jan 24 17:44:18 +0000 2018,36868459,0.316,0.684,0.0,BBC Breaking News,Former US Olympic gym doctor Larry Nassar jailed for 175 years for sexual abuse after emotionally-charged hearing https://t.co/cStNHH0VAW
+75,0.128,Wed Jan 24 17:18:14 +0000 2018,36868459,0.12,0.733,0.147,BBC Breaking News,"The #PresidentsClub says it is to close after accusations of groping at a men-only charity dinner
+
+https://t.co/5HeXSeVCAZ"
+76,-0.1779,Wed Jan 24 13:46:53 +0000 2018,36868459,0.164,0.704,0.131,BBC Breaking News,"#PresidentsClub: David Walliams ""appalled"" by reports of hostesses being harassed at men-only charity event he host… https://t.co/usM6RMHhox"
+77,-0.5423,Wed Jan 24 13:00:00 +0000 2018,36868459,0.179,0.821,0.0,BBC Breaking News,"Businessman, who helped organise event at centre of hostess harassment row, quits Department for Education role https://t.co/Cam6dCwO0I"
+78,0.6249,Wed Jan 24 11:01:48 +0000 2018,36868459,0.0,0.796,0.204,BBC Breaking News,Great Ormond Street to return donations from organisation that held men-only dinner where hostesses allegedly groped https://t.co/e2DBhtvamf
+79,-0.4404,Wed Jan 24 09:33:26 +0000 2018,36868459,0.146,0.854,0.0,BBC Breaking News,"UK unemployment fell by 3,000 to 1.44 million in the three months to November, official figures show https://t.co/gcWk3fvKsm"
+80,-0.3818,Wed Jan 24 05:53:14 +0000 2018,36868459,0.242,0.625,0.133,BBC Breaking News,"Save the Children's office in Jalalabad, Afghanistan, is under attack by gunmen - at least 11 people injured https://t.co/fSdWjuL6gz"
+81,-0.1027,Tue Jan 23 15:14:02 +0000 2018,36868459,0.08,0.92,0.0,BBC Breaking News,US attorney general Sessions questioned last week by investigators over alleged Trump campaign collusion with Russia https://t.co/DcHdKmF4v2
+82,0.6369,Tue Jan 23 14:07:55 +0000 2018,36868459,0.0,0.792,0.208,BBC Breaking News,"The Shape of Water leads race in the Oscars, with 13 nominations, including Best Picture
+
+https://t.co/EbTbIVDYnI… https://t.co/iQyNOiaIUx"
+83,0.296,Tue Jan 23 09:49:09 +0000 2018,36868459,0.0,0.845,0.155,BBC Breaking News,Tsunami alert is issued after an 8.0-strength earthquake off southern Alaska coast https://t.co/5K1gZaR1qH
+84,0.0,Tue Jan 23 04:29:00 +0000 2018,36868459,0.0,1.0,0.0,BBC Breaking News,"An avalanche which may have been trigged by a volcano erupting nearby hits a ski resort in Kusatsu, Japan https://t.co/eNTA7fFBKj"
+85,0.0258,Mon Jan 22 17:25:50 +0000 2018,36868459,0.0,0.936,0.064,BBC Breaking News,US government shutdown to end after Senate Republicans and Democrats reach temporary deal on federal budget… https://t.co/DqJYEC2KNI
+86,0.2883,Mon Jan 22 16:17:24 +0000 2018,36868459,0.093,0.721,0.185,BBC Breaking News,"""I will not be resigning as party leader.""   
+
+UKIP leader Henry Bolton stands firm after a wave of resignations fr… https://t.co/SmJBrEauJi"
+87,-0.8176,Mon Jan 22 15:38:10 +0000 2018,36868459,0.349,0.602,0.048,BBC Breaking News,"Pope Francis makes rare apology for ""hurting"" sex abuse victims in Chile whom he accused of slandering a bishop https://t.co/gndHJqt7FZ"
+88,0.1027,Mon Jan 22 11:16:22 +0000 2018,36868459,0.13,0.688,0.181,BBC Breaking News,Ejector seat firm admits health &amp; safety breach after Red Arrows pilot died when ejected from jet on ground in 2011 https://t.co/Os4Y0PlKgJ
+89,0.2263,Sun Jan 21 17:03:56 +0000 2018,36868459,0.192,0.621,0.186,BBC Breaking News,UKIP's ruling body unanimously backs vote of no confidence in leader Henry Bolton https://t.co/62OzIodMK6
+90,-0.7783,Sun Jan 21 16:03:02 +0000 2018,36868459,0.286,0.714,0.0,BBC Breaking News,"Eight-year-old girl who was stabbed to death in Brownhills near Walsall, named as Mylee Billingham by West Midlands… https://t.co/dftLWfSE61"
+91,-0.7717,Sun Jan 21 14:42:24 +0000 2018,36868459,0.295,0.705,0.0,BBC Breaking News,"Fourteen foreigners and four Afghans now known to have died in Kabul hotel attack, Afghan officials say https://t.co/PasFtvwodn"
+92,0.0,Sun Jan 21 10:35:19 +0000 2018,36868459,0.0,1.0,0.0,BBC Breaking News,"RT @BBCSport: Watford have sacked manager Marco Silva.
+
+More to follow: https://t.co/LmVPkBkvxf https://t.co/zI7NtN1rGu"
+93,-0.872,Sun Jan 21 09:34:04 +0000 2018,36868459,0.398,0.602,0.0,BBC Breaking News,"Man, 54, arrested after eight-year-old girl stabbed to death in Brownhills, near Walsall, say West Midlands Police https://t.co/CCLZRSMtJ1"
+94,-0.1779,Sun Jan 21 05:20:43 +0000 2018,36868459,0.168,0.703,0.13,BBC Breaking News,"Kabul attack: Security forces regain control of hotel after deadly 12-hour siege, officials say https://t.co/yNUo87AVQe"
+95,-0.8225,Sun Jan 21 04:45:55 +0000 2018,36868459,0.309,0.691,0.0,BBC Breaking News,"Kabul hotel attack: At least five people killed and six wounded as siege continues, Afghan interior ministry says https://t.co/dmiOvQhV7k"
+96,-0.4767,Sat Jan 20 17:19:02 +0000 2018,36868459,0.181,0.819,0.0,BBC Breaking News,Kabul's Intercontinental Hotel under attack by at least four gunmen - reports quoting Afghan officials https://t.co/FgQuvhgUt3
+97,-0.5423,Sat Jan 20 05:00:58 +0000 2018,36868459,0.209,0.791,0.0,BBC Breaking News,"US government shuts down, putting thousands of workers on unpaid leave, after Congress failed to pass stopgap budget https://t.co/RhvZL8aNRP"
+98,-0.5267,Sat Jan 20 03:35:49 +0000 2018,36868459,0.216,0.784,0.0,BBC Breaking News,"US government shutdown looms, after Senate fails to pass short-term budget bill 90 minutes before midnight deadline https://t.co/yrFeILDk7f"
+99,0.5267,Fri Jan 19 11:22:50 +0000 2018,36868459,0.0,0.848,0.152,BBC Breaking News,"My decision does not mean that others ""are precluded from taking action"" - Justice Secretary David Gauke on John Wo… https://t.co/SeshDy5jVZ"
+100,-0.34,Sat Feb 03 03:05:01 +0000 2018,6382266,0.112,0.888,0.0,CBS News,"After Los Angeles school shooting, detectives are trying to figure out where 12-year-old girl got gun, which was un… https://t.co/rki36hLpOG"
+101,0.1027,Sat Feb 03 03:00:13 +0000 2018,6382266,0.15,0.631,0.218,CBS News,"Hawaii man who sent alert says he was ""100 percent sure"" attack was real https://t.co/mRIeUiFvxS https://t.co/QFPROJcZlC"
+102,-0.2382,Sat Feb 03 02:45:01 +0000 2018,6382266,0.109,0.891,0.0,CBS News,"Trump administration will continue much of the Obama administration's nuclear weapons policy, but take a more aggre… https://t.co/dPv0zo7wQM"
+103,0.5994,Sat Feb 03 02:25:01 +0000 2018,6382266,0.0,0.822,0.178,CBS News,"Even by Minnesota standards, Super Bowl Sunday will be shivering; the predicted kickoff temperature is just nine de… https://t.co/dcaGcWPrvb"
+104,-0.7351,Sat Feb 03 02:05:01 +0000 2018,6382266,0.256,0.744,0.0,CBS News,"For the first time, an anguished father heard exactly how Larry Nassar sexually assaulted his daughters when they w… https://t.co/hOTnhqaRxj"
+105,0.0,Sat Feb 03 01:45:02 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"What are some of the factors behind the Dow plunge?
+https://t.co/K4YL4h4S9u https://t.co/sWUEKQCA7i"
+106,-0.891,Sat Feb 03 01:25:01 +0000 2018,6382266,0.414,0.586,0.0,CBS News,Woman who was forced to marry her rapist as an 11-year-old child fights to change Florida law… https://t.co/7PkHZsBACA
+107,-0.7564,Sat Feb 03 01:05:01 +0000 2018,6382266,0.236,0.764,0.0,CBS News,"At least 16 more children died of the flu over the past week and more states are reporting high levels of illness,… https://t.co/1oQNulGpb3"
+108,0.4939,Sat Feb 03 00:45:26 +0000 2018,6382266,0.0,0.842,0.158,CBS News,"In one of the largest personal collections of anything in America, an 87-year-old's fascination with antique washin… https://t.co/SR08YPIytT"
+109,0.0,Sat Feb 03 00:25:01 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"Coordinator of women's national team for USA Gymnastics steps down, the latest departure to rock the embattled orga… https://t.co/xqax6ce5XQ"
+110,0.0,Sat Feb 03 00:05:01 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"Release of once-classified memo is ""unprecedented"" and could have far-reaching effects in foreign policy, former CI… https://t.co/Jo5HcFEYcG"
+111,0.891,Fri Feb 02 23:52:56 +0000 2018,6382266,0.0,0.58,0.42,CBS News,"Organizers of this year's Super Bowl are hoping a million fans embrace the cold, what they call ""the Bold North,""… https://t.co/vSjfregBtH"
+112,0.0,Fri Feb 02 23:50:26 +0000 2018,6382266,0.0,1.0,0.0,CBS News,".@BojorquezCBS: ""[Sherry Johnson] says a judge signed off on the marriage between her and the 20-year-old church de… https://t.co/6YIO6Or8Nn"
+113,-0.8271,Fri Feb 02 23:48:00 +0000 2018,6382266,0.314,0.686,0.0,CBS News,"According to the CDC, this flu season continues to rival the worst in recent years -- with some shortages of antivi… https://t.co/eHDdNlWVGs"
+114,-0.5106,Fri Feb 02 23:46:26 +0000 2018,6382266,0.148,0.852,0.0,CBS News,"Randall Margraves, a father of three daughters abused by Larry Nassar, speaks to CBS News after lunging at the disg… https://t.co/ZZpdoGc2Wy"
+115,0.0,Fri Feb 02 23:40:07 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"Rep. Adam Schiff (D-CA) on memo: ""This wasn't about oversight. This was about telling a political story that's help… https://t.co/JggqW7nPOX"
+116,0.0,Fri Feb 02 23:37:00 +0000 2018,6382266,0.0,1.0,0.0,CBS News,RT @CBSEveningNews: What caused the market to plummet this week? @Jillonmoney explains #CBSEveningNews https://t.co/aMiOLpFIsn
+117,0.4404,Fri Feb 02 23:31:57 +0000 2018,6382266,0.0,0.888,0.112,CBS News,"RT @CBSEveningNews: We’re on the air in the East. @JeffGlor is live from Studio 57 in NYC
+
+Thanks for being with us #OriginalReporting #CBS…"
+118,0.0,Fri Feb 02 23:22:00 +0000 2018,6382266,0.0,1.0,0.0,CBS News,RT @adrianasdiaz: Father who tried to tackle Larry Nassar in courtroom today speaks. We sit down with him one on one for tonight's @cbseven…
+119,0.0,Fri Feb 02 23:16:00 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"RT @BojorquezCBS: This is Sherry Johnson's wedding photo. 
+
+She was 11.
+
+On tonight's @CBSEveningNews with @jeffglor, we'll tell you how he…"
+120,-0.34,Sat Feb 03 03:05:01 +0000 2018,6382266,0.112,0.888,0.0,CBS News,"After Los Angeles school shooting, detectives are trying to figure out where 12-year-old girl got gun, which was un… https://t.co/rki36hLpOG"
+121,0.1027,Sat Feb 03 03:00:13 +0000 2018,6382266,0.15,0.631,0.218,CBS News,"Hawaii man who sent alert says he was ""100 percent sure"" attack was real https://t.co/mRIeUiFvxS https://t.co/QFPROJcZlC"
+122,-0.2382,Sat Feb 03 02:45:01 +0000 2018,6382266,0.109,0.891,0.0,CBS News,"Trump administration will continue much of the Obama administration's nuclear weapons policy, but take a more aggre… https://t.co/dPv0zo7wQM"
+123,0.5994,Sat Feb 03 02:25:01 +0000 2018,6382266,0.0,0.822,0.178,CBS News,"Even by Minnesota standards, Super Bowl Sunday will be shivering; the predicted kickoff temperature is just nine de… https://t.co/dcaGcWPrvb"
+124,-0.7351,Sat Feb 03 02:05:01 +0000 2018,6382266,0.256,0.744,0.0,CBS News,"For the first time, an anguished father heard exactly how Larry Nassar sexually assaulted his daughters when they w… https://t.co/hOTnhqaRxj"
+125,0.0,Sat Feb 03 01:45:02 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"What are some of the factors behind the Dow plunge?
+https://t.co/K4YL4h4S9u https://t.co/sWUEKQCA7i"
+126,-0.891,Sat Feb 03 01:25:01 +0000 2018,6382266,0.414,0.586,0.0,CBS News,Woman who was forced to marry her rapist as an 11-year-old child fights to change Florida law… https://t.co/7PkHZsBACA
+127,-0.7564,Sat Feb 03 01:05:01 +0000 2018,6382266,0.236,0.764,0.0,CBS News,"At least 16 more children died of the flu over the past week and more states are reporting high levels of illness,… https://t.co/1oQNulGpb3"
+128,0.4939,Sat Feb 03 00:45:26 +0000 2018,6382266,0.0,0.842,0.158,CBS News,"In one of the largest personal collections of anything in America, an 87-year-old's fascination with antique washin… https://t.co/SR08YPIytT"
+129,0.0,Sat Feb 03 00:25:01 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"Coordinator of women's national team for USA Gymnastics steps down, the latest departure to rock the embattled orga… https://t.co/xqax6ce5XQ"
+130,0.0,Sat Feb 03 00:05:01 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"Release of once-classified memo is ""unprecedented"" and could have far-reaching effects in foreign policy, former CI… https://t.co/Jo5HcFEYcG"
+131,0.891,Fri Feb 02 23:52:56 +0000 2018,6382266,0.0,0.58,0.42,CBS News,"Organizers of this year's Super Bowl are hoping a million fans embrace the cold, what they call ""the Bold North,""… https://t.co/vSjfregBtH"
+132,0.0,Fri Feb 02 23:50:26 +0000 2018,6382266,0.0,1.0,0.0,CBS News,".@BojorquezCBS: ""[Sherry Johnson] says a judge signed off on the marriage between her and the 20-year-old church de… https://t.co/6YIO6Or8Nn"
+133,-0.8271,Fri Feb 02 23:48:00 +0000 2018,6382266,0.314,0.686,0.0,CBS News,"According to the CDC, this flu season continues to rival the worst in recent years -- with some shortages of antivi… https://t.co/eHDdNlWVGs"
+134,-0.5106,Fri Feb 02 23:46:26 +0000 2018,6382266,0.148,0.852,0.0,CBS News,"Randall Margraves, a father of three daughters abused by Larry Nassar, speaks to CBS News after lunging at the disg… https://t.co/ZZpdoGc2Wy"
+135,0.0,Fri Feb 02 23:40:07 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"Rep. Adam Schiff (D-CA) on memo: ""This wasn't about oversight. This was about telling a political story that's help… https://t.co/JggqW7nPOX"
+136,0.0,Fri Feb 02 23:37:00 +0000 2018,6382266,0.0,1.0,0.0,CBS News,RT @CBSEveningNews: What caused the market to plummet this week? @Jillonmoney explains #CBSEveningNews https://t.co/aMiOLpFIsn
+137,0.4404,Fri Feb 02 23:31:57 +0000 2018,6382266,0.0,0.888,0.112,CBS News,"RT @CBSEveningNews: We’re on the air in the East. @JeffGlor is live from Studio 57 in NYC
+
+Thanks for being with us #OriginalReporting #CBS…"
+138,0.0,Fri Feb 02 23:22:00 +0000 2018,6382266,0.0,1.0,0.0,CBS News,RT @adrianasdiaz: Father who tried to tackle Larry Nassar in courtroom today speaks. We sit down with him one on one for tonight's @cbseven…
+139,0.0,Fri Feb 02 23:16:00 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"RT @BojorquezCBS: This is Sherry Johnson's wedding photo. 
+
+She was 11.
+
+On tonight's @CBSEveningNews with @jeffglor, we'll tell you how he…"
+140,0.0,Fri Feb 02 23:02:01 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"Six years after the Spice Girls joined forces for the closing ceremony of the 2012 Olympics in London, the iconic '… https://t.co/Xhz0QKjP8L"
+141,-0.4767,Fri Feb 02 22:33:54 +0000 2018,6382266,0.251,0.618,0.131,CBS News,"""Firing Rod Rosenstein, DOJ leadership, or Bob Mueller could result in a constitutional crisis of the kind not seen… https://t.co/AQz1RpwNWp"
+142,-0.5574,Fri Feb 02 22:10:55 +0000 2018,6382266,0.223,0.777,0.0,CBS News,"NEW: “There is no conversation or consideration about firing (Deputy AG) Rod Rosenstein,"" a White House official te… https://t.co/L7L9cY96cB"
+143,0.0,Fri Feb 02 21:52:31 +0000 2018,6382266,0.0,1.0,0.0,CBS News,NEW: CBS News has obtained an internal communication to FBI workforce from Dir. Christopher Wray; “Let me be clear:… https://t.co/tCxKGrUOfo
+144,-0.296,Fri Feb 02 21:45:02 +0000 2018,6382266,0.115,0.885,0.0,CBS News,"A 22-year-old woman listed in California's missing persons database was ""found"" -- as a contestant on the ""The Bach… https://t.co/vWq3PEqGA5"
+145,-0.6249,Fri Feb 02 21:28:03 +0000 2018,6382266,0.194,0.806,0.0,CBS News,JUST IN: Dow Jones Industrial Average plunges more than 600 points Friday in worst week since 2016… https://t.co/LTJK22LMGG
+146,-0.296,Fri Feb 02 21:02:01 +0000 2018,6382266,0.104,0.896,0.0,CBS News,"Alaska lawmaker, Rep. Zach Fansler, who is accused of hitting a woman during a night of drinking last month, is res… https://t.co/LfJRIKYBQG"
+147,0.296,Fri Feb 02 20:45:01 +0000 2018,6382266,0.142,0.619,0.239,CBS News,"U.S. stocks sank on Friday after companies like Alphabet, ExxonMobil issued disappointing profit reports, putting t… https://t.co/ff2F1Dl6cy"
+148,-0.0995,Fri Feb 02 20:27:27 +0000 2018,6382266,0.185,0.683,0.132,CBS News,"@PressSec ""It’s so poorly sourced and so clearly biased that it’s difficult to come up with any rational reason for… https://t.co/KjMwmoGvLd"
+149,-0.8625,Fri Feb 02 20:19:31 +0000 2018,6382266,0.436,0.564,0.0,CBS News,"Amid deadly flu season, a nurse's Facebook rant about the ""cesspool of funky flu"" in emergency room waiting areas g… https://t.co/mzBUFGIA3U"
+150,-0.2023,Fri Feb 02 19:55:01 +0000 2018,6382266,0.096,0.904,0.0,CBS News,The release of a controversial GOP memo on foreign surveillance has many people asking: Who is Carter Page?… https://t.co/R7bdGMSl9i
+151,0.0,Fri Feb 02 19:37:02 +0000 2018,6382266,0.0,1.0,0.0,CBS News,President Trump is visiting a Customs and Border Protection facility in Virginia after the release of a controversi… https://t.co/fT3t6taMv9
+152,0.3182,Fri Feb 02 19:28:15 +0000 2018,6382266,0.062,0.813,0.124,CBS News,".@PressSec says memo declassified by POTUS ""raises serious concerns about the integrity of decisions made at the hi… https://t.co/1tJXDlerOl"
+153,-0.3182,Fri Feb 02 19:17:00 +0000 2018,6382266,0.113,0.887,0.0,CBS News,Democrats are ripping Republicans for releasing memo alleging abuses of surveillance law while most -- but not all… https://t.co/WaIm95MAfv
+154,0.765,Fri Feb 02 19:16:45 +0000 2018,6382266,0.0,0.732,0.268,CBS News,"""Congress has made inquiries concerning an issue of great importance for the country &amp; concerns have been raised ab… https://t.co/cJEvtGPg8s"
+155,0.1027,Fri Feb 02 19:10:24 +0000 2018,6382266,0.066,0.849,0.085,CBS News,"Sen. Schumer calls Nunes memo ""partisan and misleading."" Top Democrats warn Pres. Trump use of the memo as pretext… https://t.co/fBS8VpeIfX"
+156,0.0,Fri Feb 02 18:52:52 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"""That’s it?"" former FBI Director James Comey tweets after release of now-declassified Nunes memo. ""DOJ &amp; FBI must k… https://t.co/pFV5Nm3B09"
+157,-0.4767,Fri Feb 02 18:49:47 +0000 2018,6382266,0.341,0.466,0.194,CBS News,"""The latest attacks on the FBI and Department of Justice serve no American interests – no party’s, no president’s,… https://t.co/WIjDHx1ocC"
+158,0.0,Fri Feb 02 18:47:37 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"With the release of the now-declassified Nunes memo, the heated partisan debates -- about the document's claims and… https://t.co/yoJ9hAw2XV"
+159,0.0,Fri Feb 02 18:41:04 +0000 2018,6382266,0.0,1.0,0.0,CBS News,WATCH LIVE: Vice President Mike Pence campaigns for Pennsylvania congressional candidate Rick Saccone; this comes a… https://t.co/D4TsUEXOc9
+160,0.0,Fri Feb 02 18:38:56 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"NEW: FBI says its comments from Wednesday on the now-declassified GOP memo still stand: ""As expressed during our in… https://t.co/UiwJ37eyKO"
+161,0.7964,Fri Feb 02 18:35:17 +0000 2018,6382266,0.0,0.677,0.323,CBS News,"House Speaker Ryan on declassified FISA memo: ""I am glad that this memo helps to provide greater transparency, and… https://t.co/gvR6VMzaHF"
+162,-0.4019,Fri Feb 02 18:22:45 +0000 2018,6382266,0.144,0.856,0.0,CBS News,"Democratic Sen. Mark Warner says release of now-declassified memo is ""reckless and demonstrates an astonishing disr… https://t.co/SXUpCDxdGw"
+163,0.0,Fri Feb 02 18:10:13 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"NEW: Rep. Nancy Pelosi says ""Pres. Trump has surrendered his constitutional responsibility as Commander-in-Chief"" b… https://t.co/LusCFjGNkY"
+164,0.044,Fri Feb 02 18:04:21 +0000 2018,6382266,0.125,0.742,0.133,CBS News,"Release of the now-declassified GOP memo ""really undermines the integrity and credibility of the FBI,"" a former Bus… https://t.co/SeqqxSZGd7"
+165,-0.0258,Fri Feb 02 17:53:00 +0000 2018,6382266,0.143,0.717,0.139,CBS News,"NEW: House Intelligence Committee Democrats say release of now-declassified GOP memo is ""a shameful effort to discr… https://t.co/q1WK2qc0ZE"
+166,0.5267,Fri Feb 02 17:49:52 +0000 2018,6382266,0.0,0.825,0.175,CBS News,"Carter Page statement on now-declassified memo: ""The brave and assiduous oversight by Congressional leaders in disc… https://t.co/bf46FNoSFt"
+167,0.3182,Fri Feb 02 17:48:00 +0000 2018,6382266,0.0,0.892,0.108,CBS News,"""According to our sources, that we've talked to over time about this issue, the original investigation did not star… https://t.co/uHEcUxKgSU"
+168,0.0,Fri Feb 02 17:43:22 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"""The fact that this memo is now out doesn't put to rest any of the back-and-forth about the validity and completene… https://t.co/IuJ2ZDmWzn"
+169,-0.5719,Fri Feb 02 17:39:30 +0000 2018,6382266,0.239,0.761,0.0,CBS News,"@CBSNews MORE: House Intel Committee Chairman Devin Nunes (R-CA) alleges committee has found ""serious violations of… https://t.co/g2IJuRq7Cw"
+170,-0.1195,Fri Feb 02 17:35:17 +0000 2018,6382266,0.216,0.67,0.113,CBS News,"NEW: ""FBI Special Agents have not, and will not, allow partisan politics to distract us from our solemn commitment… https://t.co/4FHnCfxWJt"
+171,0.5267,Fri Feb 02 17:29:57 +0000 2018,6382266,0.0,0.841,0.159,CBS News,JUST IN: House Intel Committee releases GOP memo on Justice Department and FBI after President Trump declassifies d… https://t.co/fdYDBfKgba
+172,0.5106,Fri Feb 02 17:22:13 +0000 2018,6382266,0.0,0.845,0.155,CBS News,"Reporter: Do you still have confidence [in Deputy AG Rod Rosenstein]?
+
+Pres. Trump: You figure it out.
+
+MORE:… https://t.co/UK7zSOvl0t"
+173,-0.4939,Fri Feb 02 17:18:31 +0000 2018,6382266,0.132,0.868,0.0,CBS News,"WATCH: ""I think it's a disgrace what's going on in this country. The memo was sent to Congress -- it was declassifi… https://t.co/gLzYniYwmJ"
+174,0.6486,Fri Feb 02 17:09:01 +0000 2018,6382266,0.072,0.683,0.245,CBS News,President Trump has effectively given his blessing for the release of the controversial GOP memo. Follow here for l… https://t.co/p8pCv8XFdc
+175,-0.6486,Fri Feb 02 17:06:07 +0000 2018,6382266,0.177,0.823,0.0,CBS News,"WATCH: ""The memo was sent to Congress. They're going to do whatever they're going to do, but it's a disgrace what's… https://t.co/CLyQZFdx5P"
+176,-0.4807,Fri Feb 02 17:04:19 +0000 2018,6382266,0.141,0.859,0.0,CBS News,MORE: There were no redactions in the classified memo from the White House; President Trump requested it be release… https://t.co/GcYF0xCHIz
+177,0.0,Fri Feb 02 16:59:01 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"JUST IN: The classified GOP memo will be declassified, White House confirms https://t.co/pD9QJ0AqD4 https://t.co/sgh2YW7Owi"
+178,0.0,Fri Feb 02 16:55:38 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"""I firmly believe that the men and women on this stage -- you have a far bigger impact on our kids lives than any p… https://t.co/qYB5jYlRBY"
+179,0.0,Fri Feb 02 16:50:51 +0000 2018,6382266,0.0,1.0,0.0,CBS News,Molly Schuyler has set a new world record by consuming 501 wings during Wing Bowl 26 https://t.co/uHllXZA2Oy https://t.co/NbQOv4pxCl
+180,-0.5574,Fri Feb 02 16:30:09 +0000 2018,6382266,0.173,0.827,0.0,CBS News,"""There is no denying that our kids, what they see on TV, the kind of behavior being modeled in public life, all of… https://t.co/npRYF1Mw9g"
+181,0.2023,Fri Feb 02 16:24:58 +0000 2018,6382266,0.0,0.917,0.083,CBS News,"""Real change doesn't happen from the top down here in Washington. Real change happens from the bottom up in communi… https://t.co/OoxzbGanSE"
+182,0.6705,Fri Feb 02 16:21:09 +0000 2018,6382266,0.0,0.686,0.314,CBS News,WATCH LIVE: Former First Lady Michelle Obama addresses educators; celebrates top school counselors… https://t.co/WwlNLbojg0
+183,-0.4019,Fri Feb 02 16:05:01 +0000 2018,6382266,0.23,0.642,0.128,CBS News,Two Florida lawmakers are urging federal justice officials to send law enforcement to Puerto Rico to fight crime in… https://t.co/mqbKxPNvSo
+184,-0.7269,Fri Feb 02 15:49:27 +0000 2018,6382266,0.28,0.667,0.053,CBS News,California woman who drove her car head-on into freeway traffic in alleged suicide attempt charged with second-degr… https://t.co/SARJzM1nol
+185,0.0,Fri Feb 02 15:30:02 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"EPA chief Scott Pruitt personally monitored removal of climate info from the agency's website, according to newly r… https://t.co/I4HzcgLQ1h"
+186,0.0,Fri Feb 02 15:02:46 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"Bitcoin dropped to below $8,000 on Friday, reflecting a plunge of almost 60% from its record high of more than $19,… https://t.co/2cz46FDUCC"
+187,0.0,Fri Feb 02 14:45:01 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"Rep. Adam Schiff says Americans will be ""misled"" by the release of the classified GOP memo https://t.co/Y9cbNjPAMo https://t.co/nVCewjWaGE"
+188,-0.5994,Fri Feb 02 14:30:01 +0000 2018,6382266,0.206,0.794,0.0,CBS News,Investigators are revealing key witnesses' accounts of the night actress Natalie Wood mysteriously drowned #48Hours… https://t.co/irULg4uIlA
+189,-0.6486,Fri Feb 02 14:27:58 +0000 2018,6382266,0.227,0.773,0.0,CBS News,MORE: A father of 3 female athletes who are victims of disgraced doctor Larry Nassar lunged at Nassar in court duri… https://t.co/QOoiHwgYw3
+190,-0.3182,Fri Feb 02 14:19:27 +0000 2018,6382266,0.103,0.897,0.0,CBS News,WATCH: The father of victims of ex-USA Gymnastic doctor Larry Nassar lunges at Nassar in court after saying to judg… https://t.co/u4sZoBxplP
+191,0.0,Fri Feb 02 14:15:01 +0000 2018,6382266,0.0,1.0,0.0,CBS News,NYC Mayor Bill de Blasio will not be attending a #GroundhogDay event — several years after he dropped a groundhog t… https://t.co/fhz4HJ5Ip2
+192,0.4215,Fri Feb 02 14:00:03 +0000 2018,6382266,0.0,0.872,0.128,CBS News,President Trump suggests the FBI and DOJ have favored Democrats over Republicans in the process that is expected to… https://t.co/cDOTfnBmsn
+193,-0.3818,Fri Feb 02 13:46:40 +0000 2018,6382266,0.14,0.86,0.0,CBS News,Sunday's #SuperBowlLII will be a battle between two historic northeastern cities as the Philadelphia @Eagles and Ne… https://t.co/dEy72cNC76
+194,-0.4404,Fri Feb 02 13:39:32 +0000 2018,6382266,0.153,0.847,0.0,CBS News,"Businesses hired robustly in January, adding 200,000 jobs, the Labor Department says; unemployment rate remains ste… https://t.co/BwzMHhhtBd"
+195,0.0,Fri Feb 02 13:38:17 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"Friday is #GoRedForWomen Day, part of a month-long campaign to raise awareness for women's heart health. Heart dise… https://t.co/2qqbhXjSac"
+196,0.0,Fri Feb 02 13:27:12 +0000 2018,6382266,0.0,1.0,0.0,CBS News,"“Time is not on the side of these investigators. Remember, this is a 36-year-old case,” @EFMoriarty says of investi… https://t.co/6XDKyZtBqp"
+197,-0.5994,Fri Feb 02 13:22:40 +0000 2018,6382266,0.206,0.794,0.0,CBS News,Investigators are revealing key witnesses' accounts of the night actress Natalie Wood mysteriously drowned. Robert… https://t.co/aAurjwHS18
+198,-0.1027,Fri Feb 02 13:20:01 +0000 2018,6382266,0.1,0.773,0.127,CBS News,Critics say some drug companies who want to hold onto their exclusive sales of a brand-name drug – and  their profi… https://t.co/iwqTQdRx5L
+199,-0.4767,Fri Feb 02 13:16:51 +0000 2018,6382266,0.24,0.655,0.105,CBS News,Homeland Security agents are cracking down on illegal workers in Northern California by demanding dozens of busines… https://t.co/j4ZciRC8zw
+200,-0.7783,Sat Feb 03 03:04:33 +0000 2018,39303860,0.291,0.709,0.0,CNN,"The so-called ""Australian flu"" is not from Australia, and the current flu season -- though severe in places -- is n… https://t.co/G29yYUtzoM"
+201,0.0,Sat Feb 03 02:42:03 +0000 2018,39303860,0.0,1.0,0.0,CNN,Rep. Devin Nunes hinted that there would be additional memos released regarding the investigation into alleged abus… https://t.co/EO7lMFrvRk
+202,-0.2023,Sat Feb 03 02:33:50 +0000 2018,39303860,0.087,0.913,0.0,CNN,"Now that the Nunes memo is public, here are five key takeaways about what's behind the controversial four-page docu… https://t.co/8mmx80otGE"
+203,-0.4019,Sat Feb 03 02:25:38 +0000 2018,39303860,0.144,0.856,0.0,CNN,Thousands of Uyghur Muslims are currently being detained in cramped conditions at so-called political education cam… https://t.co/Dt49hc3FPv
+204,0.0,Sat Feb 03 02:17:55 +0000 2018,39303860,0.0,1.0,0.0,CNN,The Nunes memo unveiling prompts a question of what President Trump will do next | Analysis by Stephen Collinson… https://t.co/6KfR6NWqHo
+205,-0.2263,Sat Feb 03 02:03:51 +0000 2018,39303860,0.145,0.743,0.112,CNN,The discovery of two World War II-era bombs in Hong Kong's Wan Chai district has raised interest in the city's larg… https://t.co/h5fFE3AaJA
+206,0.6705,Sat Feb 03 01:59:39 +0000 2018,39303860,0.0,0.776,0.224,CNN,"RT @OutFrontCNN: ""This is a phony memo...you've got Vladimir Putin there smiling, it's like he gave Donald Trump the script."" - Rep. Jackie…"
+207,-0.1531,Sat Feb 03 01:51:08 +0000 2018,39303860,0.119,0.792,0.089,CNN,"A top Democratic congressman said he is ""very concerned"" about the possibility that President Trump will fire Deput… https://t.co/wVOwIVq88b"
+208,0.0,Sat Feb 03 01:47:17 +0000 2018,39303860,0.0,1.0,0.0,CNN,"RT @OutFrontCNN: ""I think the President would be inclined to release the Democratic memo, should it come to us, and should it be reviewed,…"
+209,0.4215,Sat Feb 03 01:41:06 +0000 2018,39303860,0.0,0.877,0.123,CNN,"There are more than 54,000 bridges in the United States that need to be repaired or replaced, according to a report… https://t.co/JT2Ubc3oWI"
+210,0.7964,Sat Feb 03 01:31:08 +0000 2018,39303860,0.0,0.616,0.384,CNN,Minneapolis is trying to make sure the homeless stay warm during Super Bowl weekend https://t.co/8eZ6pfMvHl https://t.co/7pRAq9qQoJ
+211,-0.5267,Sat Feb 03 01:21:06 +0000 2018,39303860,0.172,0.756,0.071,CNN,Amazon stock climbed nearly 3% on what proved to be the worst day for the Dow since June 2016… https://t.co/mHFAIeS9sa
+212,0.4576,Sat Feb 03 01:11:08 +0000 2018,39303860,0.0,0.824,0.176,CNN,The most interesting part of the Nunes memo? Trump's reaction | Analysis by @CillizzaCNN https://t.co/6KtS7YS3ZH https://t.co/eb8MThp3yb
+213,0.5859,Sat Feb 03 01:01:04 +0000 2018,39303860,0.144,0.593,0.263,CNN,Republicans convening for their national party meeting in Washington struck notes of cautious optimism about the mi… https://t.co/nRp0MlIzAD
+214,0.25,Sat Feb 03 00:51:04 +0000 2018,39303860,0.0,0.833,0.167,CNN,The Office of Government Ethics unofficially OKs an outside legal defense fund for White House staffers… https://t.co/qYEycKQZM8
+215,0.4215,Sat Feb 03 00:45:17 +0000 2018,39303860,0.0,0.877,0.123,CNN,An EMT saved this man's life when he was a baby. He was reunited with that man at his EMT graduation.… https://t.co/3FGY1vNblh
+216,0.7506,Sat Feb 03 00:34:06 +0000 2018,39303860,0.0,0.758,0.242,CNN,"Heading into Sunday's Super Bowl, there isn't much Patriots and Eagles fans can agree on -- except when it comes to… https://t.co/esWJ7rpgZd"
+217,0.0,Sat Feb 03 00:30:00 +0000 2018,39303860,0.0,1.0,0.0,CNN,"Thousands of stone tools dating back as far as 385,000 years, uncovered in India, suggest humans might have migrate… https://t.co/BF9LDHTafT"
+218,0.25,Sat Feb 03 00:13:58 +0000 2018,39303860,0.117,0.676,0.207,CNN,"The Federal Reserve said it will restrict Wells Fargo's growth in light of ""widespread consumer abuses,"" including… https://t.co/vrtDTdoqIG"
+219,0.0,Sat Feb 03 00:04:03 +0000 2018,39303860,0.0,1.0,0.0,CNN,"Republican Rep. Hurd, former CIA officer: ”I also don't believe there's anything in this Republican memo that's exp… https://t.co/P09yQu17Ox"
+220,-0.7783,Sat Feb 03 03:04:33 +0000 2018,39303860,0.291,0.709,0.0,CNN,"The so-called ""Australian flu"" is not from Australia, and the current flu season -- though severe in places -- is n… https://t.co/G29yYUtzoM"
+221,0.0,Sat Feb 03 02:42:03 +0000 2018,39303860,0.0,1.0,0.0,CNN,Rep. Devin Nunes hinted that there would be additional memos released regarding the investigation into alleged abus… https://t.co/EO7lMFrvRk
+222,-0.2023,Sat Feb 03 02:33:50 +0000 2018,39303860,0.087,0.913,0.0,CNN,"Now that the Nunes memo is public, here are five key takeaways about what's behind the controversial four-page docu… https://t.co/8mmx80otGE"
+223,-0.4019,Sat Feb 03 02:25:38 +0000 2018,39303860,0.144,0.856,0.0,CNN,Thousands of Uyghur Muslims are currently being detained in cramped conditions at so-called political education cam… https://t.co/Dt49hc3FPv
+224,0.0,Sat Feb 03 02:17:55 +0000 2018,39303860,0.0,1.0,0.0,CNN,The Nunes memo unveiling prompts a question of what President Trump will do next | Analysis by Stephen Collinson… https://t.co/6KfR6NWqHo
+225,-0.2263,Sat Feb 03 02:03:51 +0000 2018,39303860,0.145,0.743,0.112,CNN,The discovery of two World War II-era bombs in Hong Kong's Wan Chai district has raised interest in the city's larg… https://t.co/h5fFE3AaJA
+226,0.6705,Sat Feb 03 01:59:39 +0000 2018,39303860,0.0,0.776,0.224,CNN,"RT @OutFrontCNN: ""This is a phony memo...you've got Vladimir Putin there smiling, it's like he gave Donald Trump the script."" - Rep. Jackie…"
+227,-0.1531,Sat Feb 03 01:51:08 +0000 2018,39303860,0.119,0.792,0.089,CNN,"A top Democratic congressman said he is ""very concerned"" about the possibility that President Trump will fire Deput… https://t.co/wVOwIVq88b"
+228,0.0,Sat Feb 03 01:47:17 +0000 2018,39303860,0.0,1.0,0.0,CNN,"RT @OutFrontCNN: ""I think the President would be inclined to release the Democratic memo, should it come to us, and should it be reviewed,…"
+229,0.4215,Sat Feb 03 01:41:06 +0000 2018,39303860,0.0,0.877,0.123,CNN,"There are more than 54,000 bridges in the United States that need to be repaired or replaced, according to a report… https://t.co/JT2Ubc3oWI"
+230,0.7964,Sat Feb 03 01:31:08 +0000 2018,39303860,0.0,0.616,0.384,CNN,Minneapolis is trying to make sure the homeless stay warm during Super Bowl weekend https://t.co/8eZ6pfMvHl https://t.co/7pRAq9qQoJ
+231,-0.5267,Sat Feb 03 01:21:06 +0000 2018,39303860,0.172,0.756,0.071,CNN,Amazon stock climbed nearly 3% on what proved to be the worst day for the Dow since June 2016… https://t.co/mHFAIeS9sa
+232,0.4576,Sat Feb 03 01:11:08 +0000 2018,39303860,0.0,0.824,0.176,CNN,The most interesting part of the Nunes memo? Trump's reaction | Analysis by @CillizzaCNN https://t.co/6KtS7YS3ZH https://t.co/eb8MThp3yb
+233,0.5859,Sat Feb 03 01:01:04 +0000 2018,39303860,0.144,0.593,0.263,CNN,Republicans convening for their national party meeting in Washington struck notes of cautious optimism about the mi… https://t.co/nRp0MlIzAD
+234,0.25,Sat Feb 03 00:51:04 +0000 2018,39303860,0.0,0.833,0.167,CNN,The Office of Government Ethics unofficially OKs an outside legal defense fund for White House staffers… https://t.co/qYEycKQZM8
+235,0.4215,Sat Feb 03 00:45:17 +0000 2018,39303860,0.0,0.877,0.123,CNN,An EMT saved this man's life when he was a baby. He was reunited with that man at his EMT graduation.… https://t.co/3FGY1vNblh
+236,0.7506,Sat Feb 03 00:34:06 +0000 2018,39303860,0.0,0.758,0.242,CNN,"Heading into Sunday's Super Bowl, there isn't much Patriots and Eagles fans can agree on -- except when it comes to… https://t.co/esWJ7rpgZd"
+237,0.0,Sat Feb 03 00:30:00 +0000 2018,39303860,0.0,1.0,0.0,CNN,"Thousands of stone tools dating back as far as 385,000 years, uncovered in India, suggest humans might have migrate… https://t.co/BF9LDHTafT"
+238,0.25,Sat Feb 03 00:13:58 +0000 2018,39303860,0.117,0.676,0.207,CNN,"The Federal Reserve said it will restrict Wells Fargo's growth in light of ""widespread consumer abuses,"" including… https://t.co/vrtDTdoqIG"
+239,0.0,Sat Feb 03 00:04:03 +0000 2018,39303860,0.0,1.0,0.0,CNN,"Republican Rep. Hurd, former CIA officer: ”I also don't believe there's anything in this Republican memo that's exp… https://t.co/P09yQu17Ox"
+240,0.0,Fri Feb 02 23:51:01 +0000 2018,39303860,0.0,1.0,0.0,CNN,A cell phone radiation study finds more questions than answers https://t.co/klNKxr3T1q https://t.co/O9xglO1JfN
+241,0.5994,Fri Feb 02 23:41:07 +0000 2018,39303860,0.0,0.849,0.151,CNN,Planning to attend the Super Bowl? Tickets prices on StubHub are up 31% over last year -- the cheapest ones left co… https://t.co/j0KG5a2Icw
+242,0.0,Fri Feb 02 23:41:07 +0000 2018,39303860,0.0,1.0,0.0,CNN,Mike Pence's home state can now require Medicaid recipients to work https://t.co/ovHGvlIdaU https://t.co/7wtvn946OQ
+243,0.5994,Fri Feb 02 23:36:03 +0000 2018,39303860,0.0,0.813,0.187,CNN,How to talk about the 2018 Super Bowl if you don't know what to talk about https://t.co/GXeOlora8A https://t.co/2Ybu063hHn
+244,-0.6249,Fri Feb 02 23:29:41 +0000 2018,39303860,0.163,0.837,0.0,CNN,"The Dow dropped 666 points, capping the worst week in two years. Here's a look at what's going on.
+
+1. Concerns the… https://t.co/tkdcHFowmo"
+245,0.4939,Fri Feb 02 23:20:43 +0000 2018,39303860,0.0,0.868,0.132,CNN,Key points from the Nunes memo appeared to have been released to news outlets friendly to the White House before be… https://t.co/F80ucWnzpS
+246,-0.4215,Fri Feb 02 23:14:12 +0000 2018,39303860,0.135,0.865,0.0,CNN,"Former CIA counterterrorism official Phil Mudd: The FBI people ""are ticked"" and they'll be saying of Trump, “You’ve… https://t.co/wZ5KaXSGdt"
+247,-0.0031,Fri Feb 02 23:11:04 +0000 2018,39303860,0.178,0.644,0.178,CNN,"President Trump threatens to cut off aid to countries that don't stop drugs coming into the United States, saying ""… https://t.co/IyGF4v6yY6"
+248,-0.128,Fri Feb 02 23:06:04 +0000 2018,39303860,0.073,0.927,0.0,CNN,FBI Director Christopher Wray addressed FBI employees in an internal video and said he knows it's a tough time and… https://t.co/OKym0P1UzD
+249,0.6249,Fri Feb 02 22:54:16 +0000 2018,39303860,0.069,0.694,0.237,CNN,"RT @CNNSitRoom: Democratic Rep. Adam Schiff says if the Intelligence Committee ""was seriously interested in oversight,"" they would have bro…"
+250,0.3384,Fri Feb 02 22:52:41 +0000 2018,39303860,0.0,0.893,0.107,CNN,"Rep. Adam Schiff: If President Trump fires Rod Rosenstein or Robert Mueller, ""to me that would be a very definite p… https://t.co/9DLA02VhQq"
+251,-0.4019,Fri Feb 02 22:50:42 +0000 2018,39303860,0.144,0.856,0.0,CNN,Rep. Adam Schiff says the Nunes memo “cherry-picks” information and is “deeply misleading and factually inaccurate”… https://t.co/tz5PdLHcOU
+252,-0.9169,Fri Feb 02 22:47:06 +0000 2018,39303860,0.373,0.627,0.0,CNN,RT @CNNPolitics: Schiff on the release of the GOP-Nunes memo: “This is a horrible abuse of our committee process and an abuse of classified…
+253,0.1027,Fri Feb 02 22:38:45 +0000 2018,39303860,0.111,0.725,0.164,CNN,"CNN legal analyst Jeffrey Toobin on the Nunes memo: ""It is an embarrassment to the United States Congress. It is pa… https://t.co/pYYR7Kn3B4"
+254,-0.5709,Fri Feb 02 22:27:04 +0000 2018,39303860,0.138,0.862,0.0,CNN,It was the second most criminal act of the 1970s -- and it was done by a bunch of wannabe radicals. Listen here to… https://t.co/7r5ms4xr1p
+255,-0.541,Fri Feb 02 22:26:51 +0000 2018,39303860,0.149,0.851,0.0,CNN,"Rep. Swalwell on Nunes memo: If they were willing to be so reckless with classified information, why didn't they re… https://t.co/n8di4e70kh"
+256,0.0,Fri Feb 02 22:26:09 +0000 2018,39303860,0.0,1.0,0.0,CNN,YouTube will now add a label to videos that come from state-funded media outlets https://t.co/IZv7zoneYd https://t.co/hgelkQhnmv
+257,0.0,Fri Feb 02 22:22:30 +0000 2018,39303860,0.0,1.0,0.0,CNN,"RT @TheLeadCNN: Democratic Rep. Swalwell states that his party's memo ""rebuts point-by-point the falsities [Republicans] put forward. But i…"
+258,0.0,Fri Feb 02 22:21:03 +0000 2018,39303860,0.0,1.0,0.0,CNN,What the Nunes memo actually proves (Not much) | Analysis by @CillizzaCNN https://t.co/DF9cBsWauh https://t.co/3ZBMPhXazm
+259,-0.7351,Fri Feb 02 22:16:09 +0000 2018,39303860,0.437,0.563,0.0,CNN,The nasty flu season is costing businesses billions https://t.co/aUljZQDSGV https://t.co/pDAS9fmBJB
+260,0.5106,Fri Feb 02 22:10:08 +0000 2018,39303860,0.0,0.837,0.163,CNN,"Apple's stock fell more than 4%, pushing into correction territory. The company released strong earnings results on… https://t.co/87bgr7c871"
+261,0.0516,Fri Feb 02 22:00:48 +0000 2018,39303860,0.087,0.817,0.096,CNN,Arizona Senate candidate Joe Arpaio says he was unaware that he granted an interview to an anti-Semitic publication… https://t.co/1FV3sGjS4m
+262,0.0,Fri Feb 02 21:56:48 +0000 2018,39303860,0.0,1.0,0.0,CNN,"President Trump tells RNC members he'll campaign for Dean Heller in Nevada, and says he'll visit other states https://t.co/LV9r4KP6Sw"
+263,-0.4939,Fri Feb 02 21:42:18 +0000 2018,39303860,0.138,0.862,0.0,CNN,"""I think this is an absolute disgrace. I think this is a dark day in American history."" Jeffrey Toobin says the Nun… https://t.co/BVMySdDBva"
+264,0.0516,Fri Feb 02 21:39:31 +0000 2018,39303860,0.0,0.948,0.052,CNN,"RT @CNNnewsroom: ""What we are seeing here is a demagogic, authoritarian president who is using this red herring to contend that there is a…"
+265,-0.7964,Fri Feb 02 21:38:47 +0000 2018,39303860,0.321,0.679,0.0,CNN,"""I think it's disgusting, I think it's pathetic. ... This is a fabricated, manufactured, hack partisan sideshow cir… https://t.co/GHxITxlMeT"
+266,0.2263,Fri Feb 02 21:32:09 +0000 2018,39303860,0.065,0.829,0.106,CNN,The Labor Department reported the biggest hourly pay increase in eight years in Friday's jobs report. The data show… https://t.co/G4pE9Je3Pe
+267,-0.25,Fri Feb 02 21:23:30 +0000 2018,39303860,0.148,0.781,0.07,CNN,"RT @TheLeadCNN: Top Dems warn Trump if he uses memo to fire Rosenstein, DOJ leadership, or Robert Mueller, it could result ""in a constituti…"
+268,-0.3612,Fri Feb 02 21:16:26 +0000 2018,39303860,0.106,0.894,0.0,CNN,"The Dow closed down 666 points, or 2.5%, its biggest percentage decline since the Brexit turmoil in June 2016 and s… https://t.co/A5FBterhaa"
+269,0.0516,Fri Feb 02 21:14:07 +0000 2018,39303860,0.172,0.645,0.183,CNN,"The Karolyi Ranch produced champions and a culture of fear, former gymnasts say https://t.co/8VdXaOF7xk https://t.co/ooupdV8HNP"
+270,0.0,Fri Feb 02 21:01:10 +0000 2018,39303860,0.0,1.0,0.0,CNN,The Arizona House of Representatives voted nearly unanimously to oust Republican Rep. Don Shooter after a report fo… https://t.co/l31rJyKENO
+271,0.0,Fri Feb 02 20:53:56 +0000 2018,39303860,0.0,1.0,0.0,CNN,"President Trump's pick to be US ambassador to Singapore, KT McFarland, has asked the President to withdraw her nomi… https://t.co/sjxd4E6QVF"
+272,0.0,Fri Feb 02 20:41:56 +0000 2018,39303860,0.0,1.0,0.0,CNN,"The US says Russia is ""developing"" an undersea nuclear-armed torpedo https://t.co/eL39Q837TK"
+273,-0.4588,Fri Feb 02 20:29:49 +0000 2018,39303860,0.158,0.842,0.0,CNN,"When Randall Margraves lunged toward disgraced doctor Larry Nassar in a courtroom, many social media users responde… https://t.co/kaaLjMpnq6"
+274,0.2263,Fri Feb 02 20:22:38 +0000 2018,39303860,0.152,0.603,0.244,CNN,40 million people are living in modern slavery. We want to know what freedom means to you. Share your photos and vi… https://t.co/NqmDUBHDEf
+275,-0.6249,Fri Feb 02 20:07:49 +0000 2018,39303860,0.17,0.83,0.0,CNN,"The stock market is having its worst week in two years, with the Dow dropping more than 600 points today… https://t.co/i89Ramt8IS"
+276,-0.7506,Fri Feb 02 20:04:53 +0000 2018,39303860,0.344,0.656,0.0,CNN,The black unemployment rate is no longer at the record low that President Trump touted after jumping nearly a perce… https://t.co/JTPnifPHuN
+277,-0.5106,Fri Feb 02 19:56:27 +0000 2018,39303860,0.163,0.837,0.0,CNN,"""That's it?"" Former FBI Director James Comey skewers a Republican memo alleging that the FBI abused its surveillanc… https://t.co/VhX2Mm6GDw"
+278,0.0,Fri Feb 02 19:52:58 +0000 2018,39303860,0.0,1.0,0.0,CNN,'Black Panther' is outselling every previous superhero film in advance ticket sales https://t.co/zaHozBCSgk https://t.co/Zz8XHzCO0k
+279,-0.1027,Fri Feb 02 19:36:01 +0000 2018,39303860,0.105,0.81,0.086,CNN,"President Trump refused to say whether he would dismiss Deputy Attorney General Rod Rosenstein, the top DOJ officia… https://t.co/6lqxhkuoSR"
+280,-0.3182,Fri Feb 02 19:31:35 +0000 2018,39303860,0.095,0.905,0.0,CNN,"Pizza shop workers took down an armed robber -- but when police took off his mask, they discovered he was their old… https://t.co/UqvdKtVdZZ"
+281,0.3612,Fri Feb 02 19:18:40 +0000 2018,39303860,0.147,0.621,0.232,CNN,A mass grave discovered in England may belong to the Viking Great Army https://t.co/4PSdWdYDrE
+282,-0.8817,Fri Feb 02 19:16:46 +0000 2018,39303860,0.505,0.369,0.126,CNN,Prostate cancer now kills more in the United Kingdom than breast cancer https://t.co/qzwpZyr8CJ
+283,0.0,Fri Feb 02 19:01:54 +0000 2018,39303860,0.0,1.0,0.0,CNN,"Polar bears could face extinction faster than thought, study says https://t.co/fj6Opzvvw8 https://t.co/QyFOb0LcFj"
+284,0.0,Fri Feb 02 19:01:23 +0000 2018,39303860,0.0,1.0,0.0,CNN,RT @CNNPolitics: Former FBI Director Comey tweets in response to the release of the GOP-Nunes memo: “That’s it?” https://t.co/fYlCwTvczb ht…
+285,0.1027,Fri Feb 02 18:40:16 +0000 2018,39303860,0.11,0.756,0.134,CNN,The 33 most over-the-top Anthony Scaramucci quotes to Vanity Fair | Analysis by Chris Cillizza… https://t.co/gPL8bZkvsO
+286,-0.4588,Fri Feb 02 18:28:03 +0000 2018,39303860,0.263,0.603,0.134,CNN,"Democratic lawmakers are fuming after the release of the disputed GOP intelligence memo, calling it ""dangerous""… https://t.co/Toxjv2w5Qg"
+287,-0.5423,Fri Feb 02 18:15:07 +0000 2018,39303860,0.259,0.741,0.0,CNN,Iced tea company kills plan to buy bitcoin mining rigs https://t.co/7kIQya04yC
+288,0.3182,Fri Feb 02 18:01:28 +0000 2018,39303860,0.086,0.766,0.148,CNN,"House Intelligence Chairman Devin Nunes issues statement on release of his controversial memo: ""The Committee has d… https://t.co/DGDPWoZeMo"
+289,-0.6901,Fri Feb 02 17:49:19 +0000 2018,39303860,0.363,0.637,0.0,CNN,JUST IN: Read the highly controversial Republican memo alleging FBI abuses https://t.co/IgTANrS0BR
+290,0.1779,Fri Feb 02 17:34:22 +0000 2018,39303860,0.155,0.645,0.2,CNN,RT @CNNPolitics: The disputed GOP-Nunes intelligence memo has been released https://t.co/2lfCtvinda https://t.co/COpYwRIWUY
+291,-0.6249,Fri Feb 02 17:13:34 +0000 2018,39303860,0.225,0.775,0.0,CNN,"RT @CNNPolitics: President Trump implies the Nunes memo exposes bias in the FBI: ""I think it's a disgrace ... a lot of people should be ash…"
+292,-0.7506,Fri Feb 02 17:04:03 +0000 2018,39303860,0.252,0.748,0.0,CNN,"Father of three daughters who were all assaulted by Larry Nassar tries to tackle the disgraced doctor in court, aft… https://t.co/8t2t0T15Ck"
+293,-0.2023,Fri Feb 02 16:55:04 +0000 2018,39303860,0.091,0.909,0.0,CNN,"BREAKING: President Trump has authorized the release of a controversial Republican memo, and has sent word to the H… https://t.co/KC22jPsug3"
+294,-0.8834,Fri Feb 02 16:44:14 +0000 2018,39303860,0.507,0.493,0.0,CNN,Rotten Tomatoes condemns plan to flood 'Black Panther' with negative reviews https://t.co/kkdDmAypBZ https://t.co/gqpT9H5AEk
+295,-0.7322,Fri Feb 02 16:32:31 +0000 2018,39303860,0.242,0.71,0.049,CNN,"16 more children have died from the flu, bringing the total number of pediatric flu-related deaths to 53 for the se… https://t.co/L7GHB8zxrD"
+296,0.0,Fri Feb 02 16:21:02 +0000 2018,39303860,0.0,1.0,0.0,CNN,Amazon's idea for employee-tracking wearables raises concerns https://t.co/BJHHU22EP4 https://t.co/8iQAz7ltGp
+297,0.25,Fri Feb 02 15:55:03 +0000 2018,39303860,0.0,0.895,0.105,CNN,Former first lady Michelle Obama is poised to make her first major speech since leaving office today https://t.co/wdwKC5zRW8
+298,0.0258,Fri Feb 02 15:45:13 +0000 2018,39303860,0.083,0.828,0.089,CNN,Secretary of Defense James Mattis warns the Syrian regime against the use of chemical weapons… https://t.co/PoQkIE95Yc
+299,0.0,Fri Feb 02 15:34:09 +0000 2018,39303860,0.0,1.0,0.0,CNN,'Black Panther' is outselling every previous superhero film in advance ticket sales https://t.co/OM77wOHNY2 https://t.co/6LXZjN2i0A
+300,0.4215,Sat Feb 03 02:54:54 +0000 2018,17094739,0.087,0.714,0.198,Fox News,".@Jim_Jordan: ""I see no other remedy than a second special counsel. And I'd add one thing: make sure they're not fr… https://t.co/kNVlXyvzmB"
+301,-0.2263,Sat Feb 03 02:43:42 +0000 2018,17094739,0.169,0.71,0.12,Fox News,Hawaii man who sent false missile alert was ‘100 percent sure’ attack was real https://t.co/ac76vG7r7G
+302,-0.2732,Sat Feb 03 02:36:18 +0000 2018,17094739,0.16,0.84,0.0,Fox News,Charges for man who sold Las Vegas gunman Stephen Paddock ammunition https://t.co/7S5Z3WCGbX
+303,-0.3182,Sat Feb 03 02:26:26 +0000 2018,17094739,0.223,0.777,0.0,Fox News,Mysterious lost Maya cities discovered in Guatemalan jungle https://t.co/xszwfncWBJ
+304,-0.5574,Sat Feb 03 02:13:56 +0000 2018,17094739,0.338,0.662,0.0,Fox News,Los Angeles school shooting suspect allegedly thought gun was a toy https://t.co/ScjFgxFPlf
+305,-0.5023,Sat Feb 03 02:08:31 +0000 2018,17094739,0.134,0.866,0.0,Fox News,".@andrewklavan on media coverage of GOP FISA memo: ""The press has done nothing for this past year but whine about h… https://t.co/of74RjupLG"
+306,-0.1027,Sat Feb 03 02:01:38 +0000 2018,17094739,0.06,0.94,0.0,Fox News,"Terry Turchie on GOP FISA memo: ""Everything the FBI does should be out in the open and we should be questioning it… https://t.co/rLhhFouP1Y"
+307,0.0,Sat Feb 03 01:57:47 +0000 2018,17094739,0.0,1.0,0.0,Fox News,"Following release of House memo, FBI director says 'talk is cheap' in letter to bureau https://t.co/IC4tlXImt1"
+308,0.0772,Sat Feb 03 01:45:59 +0000 2018,17094739,0.098,0.791,0.112,Fox News,"Jonathan Turley on GOP FISA memo: ""When you say that there's a national security risk about a document being releas… https://t.co/2U4aPgt2xD"
+309,0.0,Sat Feb 03 01:39:23 +0000 2018,17094739,0.0,1.0,0.0,Fox News,"@ChristopherHahn on GOP FISA memo: ""Why Carter Page is walking the street is a question that should keep a lot of R… https://t.co/AdYZgfCq7d"
+310,0.0,Sat Feb 03 01:28:45 +0000 2018,17094739,0.0,1.0,0.0,Fox News,"WATCH: @DevinNunes interview - Part 2: ""I think the American people understand that the @FBI should not go to secre… https://t.co/7pew17iNvT"
+311,-0.2732,Sat Feb 03 01:28:36 +0000 2018,17094739,0.128,0.793,0.079,Fox News,"WATCH: @DevinNunes interview - Part 1:  ""I get tired of playing whack-a-mole every day with the Democrats on this c… https://t.co/Q77bCKyP2b"
+312,-0.296,Sat Feb 03 01:27:08 +0000 2018,17094739,0.095,0.905,0.0,Fox News,".@TomFitton on GOP FISA memo: ""There is no Russia collusion story without the dossier. And we now know and have con… https://t.co/wmz8wdR4Kv"
+313,0.0,Sat Feb 03 01:20:23 +0000 2018,17094739,0.0,1.0,0.0,Fox News,"Joe DiGenova on GOP FISA memo: ""It's a disgraceful period in the history of the [DOJ] and the FBI and James Comey a… https://t.co/FD6w8O3vD4"
+314,-0.3182,Sat Feb 03 01:06:30 +0000 2018,17094739,0.157,0.742,0.1,Fox News,"A distraught father apologized for charging at Larry Nassar in court Friday. He ended with these parting words: ""I… https://t.co/DabEQcKLGd"
+315,0.0,Sat Feb 03 01:00:33 +0000 2018,17094739,0.0,1.0,0.0,Fox News,.@DevinNunes tells Fox News memo was released out of public obligation https://t.co/EL4KYalEfa https://t.co/Ogz9AZeAie
+316,0.0,Sat Feb 03 00:59:00 +0000 2018,17094739,0.0,1.0,0.0,Fox News,.@RepDeSantis: 'We Still Don't Have Evidence of Any Trump-Russia Campaign Collusion' https://t.co/rch7gtVSLD
+317,-0.2732,Sat Feb 03 00:51:00 +0000 2018,17094739,0.204,0.659,0.138,Fox News,Pentagon announces plan to expand nuclear arsenal in face of Russian threat https://t.co/Fx6Y7YWnl3
+318,0.1027,Sat Feb 03 00:38:34 +0000 2018,17094739,0.183,0.611,0.206,Fox News,Video of Tom Brady kissing son on the lips sparks internet outcry https://t.co/QDgBtmxDzY
+319,-0.4404,Sat Feb 03 00:30:03 +0000 2018,17094739,0.224,0.675,0.101,Fox News,".@jasoninthehouse: ""It's shocking how willingly &amp; easily the senior leadership of the @FBI was manipulated, &amp; to ha… https://t.co/GTF95RoSLI"
+320,0.4215,Sat Feb 03 02:54:54 +0000 2018,17094740,0.087,0.714,0.198,Fox News,".@Jim_Jordan: ""I see no other remedy than a second special counsel. And I'd add one thing: make sure they're not fr… https://t.co/kNVlXyvzmB"
+321,-0.2263,Sat Feb 03 02:43:42 +0000 2018,17094740,0.169,0.71,0.12,Fox News,Hawaii man who sent false missile alert was ‘100 percent sure’ attack was real https://t.co/ac76vG7r7G
+322,-0.2732,Sat Feb 03 02:36:18 +0000 2018,17094740,0.16,0.84,0.0,Fox News,Charges for man who sold Las Vegas gunman Stephen Paddock ammunition https://t.co/7S5Z3WCGbX
+323,-0.3182,Sat Feb 03 02:26:26 +0000 2018,17094740,0.223,0.777,0.0,Fox News,Mysterious lost Maya cities discovered in Guatemalan jungle https://t.co/xszwfncWBJ
+324,-0.5574,Sat Feb 03 02:13:56 +0000 2018,17094740,0.338,0.662,0.0,Fox News,Los Angeles school shooting suspect allegedly thought gun was a toy https://t.co/ScjFgxFPlf
+325,-0.5023,Sat Feb 03 02:08:31 +0000 2018,17094740,0.134,0.866,0.0,Fox News,".@andrewklavan on media coverage of GOP FISA memo: ""The press has done nothing for this past year but whine about h… https://t.co/of74RjupLG"
+326,-0.1027,Sat Feb 03 02:01:38 +0000 2018,17094740,0.06,0.94,0.0,Fox News,"Terry Turchie on GOP FISA memo: ""Everything the FBI does should be out in the open and we should be questioning it… https://t.co/rLhhFouP1Y"
+327,0.0,Sat Feb 03 01:57:47 +0000 2018,17094740,0.0,1.0,0.0,Fox News,"Following release of House memo, FBI director says 'talk is cheap' in letter to bureau https://t.co/IC4tlXImt1"
+328,0.0772,Sat Feb 03 01:45:59 +0000 2018,17094740,0.098,0.791,0.112,Fox News,"Jonathan Turley on GOP FISA memo: ""When you say that there's a national security risk about a document being releas… https://t.co/2U4aPgt2xD"
+329,0.0,Sat Feb 03 01:39:23 +0000 2018,17094740,0.0,1.0,0.0,Fox News,"@ChristopherHahn on GOP FISA memo: ""Why Carter Page is walking the street is a question that should keep a lot of R… https://t.co/AdYZgfCq7d"
+330,0.0,Sat Feb 03 01:28:45 +0000 2018,17094740,0.0,1.0,0.0,Fox News,"WATCH: @DevinNunes interview - Part 2: ""I think the American people understand that the @FBI should not go to secre… https://t.co/7pew17iNvT"
+331,-0.2732,Sat Feb 03 01:28:36 +0000 2018,17094740,0.128,0.793,0.079,Fox News,"WATCH: @DevinNunes interview - Part 1:  ""I get tired of playing whack-a-mole every day with the Democrats on this c… https://t.co/Q77bCKyP2b"
+332,-0.296,Sat Feb 03 01:27:08 +0000 2018,17094740,0.095,0.905,0.0,Fox News,".@TomFitton on GOP FISA memo: ""There is no Russia collusion story without the dossier. And we now know and have con… https://t.co/wmz8wdR4Kv"
+333,0.0,Sat Feb 03 01:20:23 +0000 2018,17094740,0.0,1.0,0.0,Fox News,"Joe DiGenova on GOP FISA memo: ""It's a disgraceful period in the history of the [DOJ] and the FBI and James Comey a… https://t.co/FD6w8O3vD4"
+334,-0.3182,Sat Feb 03 01:06:30 +0000 2018,17094740,0.157,0.742,0.1,Fox News,"A distraught father apologized for charging at Larry Nassar in court Friday. He ended with these parting words: ""I… https://t.co/DabEQcKLGd"
+335,0.0,Sat Feb 03 01:00:33 +0000 2018,17094740,0.0,1.0,0.0,Fox News,.@DevinNunes tells Fox News memo was released out of public obligation https://t.co/EL4KYalEfa https://t.co/Ogz9AZeAie
+336,0.0,Sat Feb 03 00:59:00 +0000 2018,17094740,0.0,1.0,0.0,Fox News,.@RepDeSantis: 'We Still Don't Have Evidence of Any Trump-Russia Campaign Collusion' https://t.co/rch7gtVSLD
+337,-0.2732,Sat Feb 03 00:51:00 +0000 2018,17094740,0.204,0.659,0.138,Fox News,Pentagon announces plan to expand nuclear arsenal in face of Russian threat https://t.co/Fx6Y7YWnl3
+338,0.1027,Sat Feb 03 00:38:34 +0000 2018,17094740,0.183,0.611,0.206,Fox News,Video of Tom Brady kissing son on the lips sparks internet outcry https://t.co/QDgBtmxDzY
+339,-0.4404,Sat Feb 03 00:30:03 +0000 2018,17094740,0.224,0.675,0.101,Fox News,".@jasoninthehouse: ""It's shocking how willingly &amp; easily the senior leadership of the @FBI was manipulated, &amp; to ha… https://t.co/GTF95RoSLI"
+340,-0.2584,Sat Feb 03 00:21:32 +0000 2018,17094741,0.12,0.88,0.0,Fox News,".@RepPeteKing: ""The American public should realize: this isn't giving somebody a traffic ticket. Going into a FISA… https://t.co/3obpQ0gG7T"
+341,-0.2716,Sat Feb 03 00:18:08 +0000 2018,17094741,0.15,0.749,0.101,Fox News,".@RepPeteKing: ""I was one of those people who, over the years, supported Jim Comey. I am really disappointed. That… https://t.co/O8gHRsm5k8"
+342,-0.5267,Sat Feb 03 00:15:11 +0000 2018,17094741,0.23,0.675,0.095,Fox News,".@mschlapp on Dem contradictions over FISA memo: ""Is it gonna destroy our national security if this document is rel… https://t.co/PkD2K7hWmN"
+343,0.25,Fri Feb 02 23:56:27 +0000 2018,17094741,0.0,0.913,0.087,Fox News,".@ByronYork on GOP FISA memo: ""The release of this memo has created a lot of momentum for the release of more stuff… https://t.co/EwMF6M8eBM"
+344,0.0,Fri Feb 02 23:51:24 +0000 2018,17094741,0.0,1.0,0.0,Fox News,".@SusanPage on GOP FISA memo: ""[@POTUS'] tweet this morning, the president's comments... indicate that he would lik… https://t.co/rsUAq5cRWV"
+345,0.0,Fri Feb 02 23:35:43 +0000 2018,17094741,0.0,1.0,0.0,Fox News,".@DevinNunes on @Comey tweets: ""I think the American people understand that the FBI should not go to secret courts… https://t.co/xmNYn1Khfh"
+346,0.0,Fri Feb 02 23:30:47 +0000 2018,17094741,0.0,1.0,0.0,Fox News,".@DevinNunes on GOP FISA memo: ""This is not trying to go after some terrorist... the FBI opened a counterintelligen… https://t.co/yvWSZjMYcN"
+347,-0.2732,Fri Feb 02 23:26:43 +0000 2018,17094741,0.128,0.793,0.079,Fox News,".@DevinNunes on the Democrats' FISA memo: ""I get tired of playing whack-a-mole every day with the Democrats on this… https://t.co/Qi8AuyTMVO"
+348,0.0,Fri Feb 02 23:19:09 +0000 2018,17094741,0.0,1.0,0.0,Fox News,".@DevinNunes on GOP FISA memo: ""The only area that I am familiar with that we left out would be the history of Cart… https://t.co/Hh2X73T8oE"
+349,-0.6441,Fri Feb 02 23:12:20 +0000 2018,17094741,0.186,0.814,0.0,Fox News,".@DevinNunes on GOP FISA memo: ""I didn't want to have to do this but the sad part is is that I have an obligation t… https://t.co/7E7cqIfFxg"
+350,0.8807,Fri Feb 02 23:05:49 +0000 2018,17094741,0.0,0.469,0.531,Fox News,Medal of Honor Recipients to Participate in Super Bowl Coin Toss https://t.co/nYKMjgHMEI
+351,-0.818,Fri Feb 02 22:51:02 +0000 2018,17094741,0.317,0.627,0.055,Fox News,The father of three Larry Nassar sex assault victims won't be charged after he lunged at the disgraced doctor in a… https://t.co/4A86eKVqSg
+352,0.0,Fri Feb 02 22:50:41 +0000 2018,17094741,0.0,1.0,0.0,Fox News,Herschel Walker: Players Received 'Hush Money' From NFL to Stand for Anthem https://t.co/nxRgTzbXh7
+353,-0.6486,Fri Feb 02 22:43:05 +0000 2018,17094741,0.193,0.807,0.0,Fox News,"BREAKING: Jon Huntsman Sr., billionaire philanthropist and father of the ambassador to Russia, Jon Jr., is dead at… https://t.co/qtULnUAJHU"
+354,0.0,Fri Feb 02 22:41:25 +0000 2018,17094741,0.0,1.0,0.0,Fox News,What does this hippo know that we don't? Fiona the Hippo registered her @SuperBowl pick at the @CincinnatiZoo on Th… https://t.co/GQBYsZRHhF
+355,0.5106,Fri Feb 02 22:39:11 +0000 2018,17094741,0.0,0.798,0.202,Fox News,".@TheJuanWilliams on emotional support peacock woman reportedly tried to bring on flight: ""I don't get this. But it… https://t.co/LqxJAE6Ez5"
+356,0.0,Fri Feb 02 22:30:03 +0000 2018,17094741,0.0,1.0,0.0,Fox News,TUNE IN: Rep. Devin Nunes speaks exclusively to @BretBaier tonight at 6p ET on Fox News Channel's #SpecialReport.… https://t.co/OYKmK24X1h
+357,0.0,Fri Feb 02 22:22:30 +0000 2018,17094741,0.0,1.0,0.0,Fox News,What is Nunes' FISA memo? 6 things to know about the secret document https://t.co/cc5RkmAUNa
+358,-0.3818,Fri Feb 02 22:16:00 +0000 2018,17094741,0.224,0.776,0.0,Fox News,"Flu hospitalizations are 'the highest we've seen,' CDC says https://t.co/gDOtrNj1Qh"
+359,0.0772,Fri Feb 02 22:10:05 +0000 2018,17094741,0.0,0.874,0.126,Fox News,Winter Olympic athletes to receive record number of condoms https://t.co/dc1jtJ3iTi
+360,-0.3182,Fri Feb 02 22:03:01 +0000 2018,17094741,0.204,0.796,0.0,Fox News,"Russia building a 'doomsday' torpedo, leaked Pentagon report draft says https://t.co/HhRMtEfLBT"
+361,-0.1832,Fri Feb 02 22:02:02 +0000 2018,17094741,0.198,0.676,0.126,Fox News,"Warner Wolf on NFL protests: ""If I'm a serviceman, especially an active duty, and I see [NFL players] disrespect th… https://t.co/jJGCfIcUxi"
+362,0.0,Fri Feb 02 21:51:59 +0000 2018,17094741,0.0,1.0,0.0,Fox News,Nunes' FISA memo sparks reactions from politicians https://t.co/9EkWpD87X4
+363,-0.6361,Fri Feb 02 21:47:44 +0000 2018,17094741,0.256,0.744,0.0,Fox News,"Tom Dupree on GOP FISA memo: ""The memo makes a very serious charge, make no mistake about that. It essentially accu… https://t.co/oHqjlWC5E8"
+364,0.8807,Fri Feb 02 21:39:50 +0000 2018,17094741,0.0,0.469,0.531,Fox News,Medal of Honor Recipients to Participate in Super Bowl Coin Toss https://t.co/bVrjyujYFA
+365,0.4391,Fri Feb 02 21:35:30 +0000 2018,17094741,0.0,0.879,0.121,Fox News,"Bre Payton on GOP FISA memo: ""It's very clear that the FBI was aware that [Christopher Steele] was an unreliable so… https://t.co/fxQm13tI5I"
+366,0.0,Fri Feb 02 21:24:05 +0000 2018,17094741,0.0,1.0,0.0,Fox News,.@AlanDersh: The Nunes FISA memo deserves more investigation. Time for a nonpartisan commission https://t.co/PqKPq9QB9H
+367,-0.0772,Fri Feb 02 21:22:17 +0000 2018,17094741,0.064,0.936,0.0,Fox News,".@DianeBlackTN on FISA memo: ""This is serious stuff when the government is allowed to go and investigate American c… https://t.co/5p6ktnLr3s"
+368,0.0,Fri Feb 02 21:18:17 +0000 2018,17094741,0.0,1.0,0.0,Fox News,"RT @FoxBusiness: #BreakingNews: Dow sees steepest selloff since Brexit on June 24, 2016 https://t.co/jGJpsvx3cb https://t.co/92Wq4bQKr0"
+369,-0.2287,Fri Feb 02 21:15:40 +0000 2018,17094741,0.205,0.669,0.125,Fox News,"Brian Brenberg on rising interest rates: ""Wall Street's throwing a tantrum here because they don't like the fact th… https://t.co/QJv882DrSt"
+370,0.4019,Fri Feb 02 21:00:02 +0000 2018,17094741,0.0,0.87,0.13,Fox News,"TONIGHT on ""Special Report,"" @DevinNunes speaks exclusively to @BretBaier  - Tune in at 6p ET on Fox News Channel. https://t.co/jB06HKnAz5"
+371,0.0,Fri Feb 02 20:59:04 +0000 2018,17094741,0.0,1.0,0.0,Fox News,Dow drops more than 600 points; @GerriWillisFBN discusses with @ShepNewsTeam. https://t.co/JtMGUw2LTW
+372,0.1027,Fri Feb 02 20:49:16 +0000 2018,17094741,0.085,0.813,0.102,Fox News,".@ShepNewsTeam: ""The Dow is off 645 points, 2.48%. That is the largest day drop, if it closes like this, since Brex… https://t.co/tu5ie2elj2"
+373,0.0,Fri Feb 02 20:46:34 +0000 2018,17094741,0.0,1.0,0.0,Fox News,Attorneys for former Trump campaign adviser Rick Gates asks to withdraw from case. https://t.co/6vlktACwcJ
+374,0.0,Fri Feb 02 20:40:40 +0000 2018,17094741,0.0,1.0,0.0,Fox News,".@NancyPelosi, prior to #memo's release: ""It's a bogus memo. It's not based on fact."" https://t.co/tdXiIGDNNv https://t.co/Fo1ioubuNx"
+375,0.0,Fri Feb 02 20:36:54 +0000 2018,17094741,0.0,1.0,0.0,Fox News,James @Comey slams FISA memo as 'dishonest' and 'misleading' - @via @brookefoxnews https://t.co/SleE87LWtR https://t.co/P7CPFqrGhW
+376,-0.296,Fri Feb 02 20:34:56 +0000 2018,17094741,0.109,0.891,0.0,Fox News,".@TomFitton: ""There's no Mueller investigation without the dossier paid for by Clinton and @DNC funds - so the whol… https://t.co/0lDKcBxpXF"
+377,0.3724,Fri Feb 02 20:27:45 +0000 2018,17094741,0.0,0.887,0.113,Fox News,"Chris Wallace on FISA memo: ""I wouldn't say it's worse than Watergate, as some people have said, and I wouldn't say… https://t.co/AfoHM43Mpt"
+378,0.0,Fri Feb 02 20:27:19 +0000 2018,17094741,0.0,1.0,0.0,Fox News,"James Comey slams FISA memo as 'dishonest' and 'misleading' - via @brookefoxnews
+https://t.co/OaO9AL9IBg"
+379,0.4767,Fri Feb 02 20:14:08 +0000 2018,17094741,0.0,0.846,0.154,Fox News,"RT @FoxNewsResearch: Typical FISA Request
+•Ranges 30-100 pages
+•Overview of the evidence
+•Legal memorandum from career intelligence lawyer…"
+380,-0.128,Fri Feb 02 20:08:57 +0000 2018,17094741,0.229,0.573,0.197,Fox News,READ THE MEMO: House Intelligence Committee report on FISA abuses https://t.co/cXWV4CkoNU
+381,0.7906,Fri Feb 02 20:01:18 +0000 2018,17094741,0.0,0.562,0.438,Fox News,RT @FoxBusiness: Americans' big spending for Super Bowl Sunday festivities https://t.co/3OKUHPHBSM
+382,0.4767,Fri Feb 02 19:49:03 +0000 2018,17094741,0.0,0.744,0.256,Fox News,House Intelligence Committee releases GOP surveillance #memo. #MemoDay https://t.co/jT5YHRsYjz https://t.co/vxx4MJs6rZ
+383,0.0,Fri Feb 02 19:39:27 +0000 2018,17094741,0.0,1.0,0.0,Fox News,"Moments ago, actor @RealJamesWoods did not hold back in his reaction to the Nunes memo. https://t.co/5v5qfh17vS… https://t.co/kK1wFlLnIS"
+384,0.0,Fri Feb 02 19:38:38 +0000 2018,17094741,0.0,1.0,0.0,Fox News,RT @FoxBusiness: U.S. markets - from Election Day. https://t.co/CQSMX7OFej
+385,0.1027,Fri Feb 02 19:35:48 +0000 2018,17094741,0.0,0.915,0.085,Fox News,FISA Memo: Dossier Author Steele Admitted He Was 'Desperate' for Trump Not to Get Elected https://t.co/db1jeHEJmR
+386,0.0,Fri Feb 02 19:31:44 +0000 2018,17094741,0.0,1.0,0.0,Fox News,.@SpeakerRyan statement on #Memo. #MemoDay https://t.co/jT5YHRsYjz https://t.co/bIbyx5Ibo0
+387,0.3612,Fri Feb 02 19:30:59 +0000 2018,17094741,0.126,0.659,0.216,Fox News,RT @FoxBusiness: Twinkie maker to give out bonuses after Trump tax cut https://t.co/NiMgV9vkpT
+388,0.0,Fri Feb 02 19:30:51 +0000 2018,17094741,0.0,1.0,0.0,Fox News,"RT @FoxBusiness: .@CBedfordDC on the potential impact on the stock market from the FISA memo: ""We shouldn't really watch for any real serio…"
+389,0.0,Fri Feb 02 19:29:29 +0000 2018,17094741,0.0,1.0,0.0,Fox News,'A Lot of People Should Be Ashamed': President Trump Reacts to Surveillance Memo #MemoDay https://t.co/jT5YHRsYjz https://t.co/tIo56nN9s7
+390,0.0,Fri Feb 02 19:25:52 +0000 2018,17094741,0.0,1.0,0.0,Fox News,What is Nunes' FISA memo? 6 things to know about the secret document https://t.co/e6YLG66ey4
+391,-0.34,Fri Feb 02 19:13:52 +0000 2018,17094741,0.124,0.876,0.0,Fox News,House #memo states disputed dossier was key to FBI’s FISA warrant to surveil members of Team Trump https://t.co/DkRQClnFk1
+392,0.4019,Fri Feb 02 19:05:02 +0000 2018,17094741,0.0,0.876,0.124,Fox News,".@mattgaetz: ""Dem. Party hired the Perkins law firm. The Perkins law firm hired Fusion GPS. Fusion GPS hired Christ… https://t.co/mAOfItmfom"
+393,-0.5574,Fri Feb 02 19:00:41 +0000 2018,17094741,0.167,0.833,0.0,Fox News,"FISA memo: Steele fired as an FBI source for breaking 'cardinal rule' --leaking to the media - via @brookefoxnews
+https://t.co/cX0RoVSsvi"
+394,0.4019,Fri Feb 02 18:59:56 +0000 2018,17094741,0.0,0.876,0.124,Fox News,".@RepMattGaetz: ""A dossier, paid for the Democratic Party, was used as a basis to spy on American citizens. That do… https://t.co/2MeWAghMOc"
+395,-0.296,Fri Feb 02 18:58:02 +0000 2018,17094741,0.109,0.891,0.0,Fox News,".@TomFitton: ""There's no Mueller investigation without the dossier paid for by Clinton and @DNC funds - so the whol… https://t.co/qzqj2F1z7X"
+396,0.0,Fri Feb 02 18:55:19 +0000 2018,17094741,0.0,1.0,0.0,Fox News,"Moments ago, James @Comey responded to the release of the #Memo: ""That’s it?"" #MemoDay https://t.co/5v5qfh17vS https://t.co/hFjl9km8h7"
+397,0.4019,Fri Feb 02 18:49:49 +0000 2018,17094741,0.0,0.881,0.119,Fox News,"Gaetz: ""The Dem. Party hired the Perkins law firm. The Perkins law firm hired Fusion GPS. Fusion GPS hired Christop… https://t.co/dMu85cvCbb"
+398,0.2023,Fri Feb 02 18:47:56 +0000 2018,17094741,0.095,0.773,0.132,Fox News,"Chuck Norris gives roundhouse kick to CBS, Sony, suing for $30 million over 'Walker, Texas Ranger' profits (via… https://t.co/Ijs261cWWd"
+399,0.128,Fri Feb 02 18:44:43 +0000 2018,17094741,0.0,0.923,0.077,Fox News,"Florida man was three times over legal drinking limit when he dropped kid off at school, police say https://t.co/hGu5lyUJxS"
+400,0.0,Sat Feb 03 03:03:03 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"The NYT television review of ""Altered Carbon,"" Netflix’s ""Blade Runner"" replicant https://t.co/o1q9i2EOUh"
+401,0.0,Sat Feb 03 02:48:05 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,RT @MarkMazzettiNYT: NEW: Releasing the memo mattered less than #releasethememo. How Trump’s Allies Fanned an Ember of Controversy Into Fla…
+402,0.7783,Sat Feb 03 02:33:03 +0000 2018,41020384,0.081,0.599,0.32,The New York Times,"Opinion: ""He went from being a devoted and loving father and husband to someone who felt like a ghost in our home"" https://t.co/N1aVJ1W5D3"
+403,0.0,Sat Feb 03 02:18:06 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/JEaVEtF6tq
+404,0.0,Sat Feb 03 02:03:03 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"Dennis Edwards, former Temptations lead singer, dies at 74 https://t.co/zKe45kePqD"
+405,-0.1779,Sat Feb 03 01:48:05 +0000 2018,41020384,0.157,0.712,0.132,The New York Times,RT @arappeport: Payday lenders have gone from villains to victors under Trump’s watch. In April they’ll celebrate over golf at Trump Doral.…
+406,0.7677,Sat Feb 03 01:33:04 +0000 2018,41020384,0.0,0.796,0.204,The New York Times,"It can regrow its limbs and internal organs, but that may not be the most amazing thing about the axolotl. Turns ou… https://t.co/7XdVtd6rCH"
+407,0.0,Sat Feb 03 01:18:04 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"K. T. McFarland withdraws her nomination to be ambassador to Singapore
+https://t.co/LFhSAYgsd8"
+408,-0.3818,Sat Feb 03 01:03:02 +0000 2018,41020384,0.12,0.88,0.0,The New York Times,The flu hospitalization rate is the highest that the CDC has ever recorded at this point in the season https://t.co/DxCJ1QA1zJ
+409,0.5267,Sat Feb 03 00:48:02 +0000 2018,41020384,0.0,0.855,0.145,The New York Times,RT @nytpolitics: President Trump hinted that senior leaders at the Department of Justice and the F.B.I. should face consequences for conduc…
+410,0.0772,Sat Feb 03 00:33:05 +0000 2018,41020384,0.097,0.793,0.11,The New York Times,"Dozens of entrepreneurs, made newly wealthy by virtual currencies, have moved to Puerto Rico to avoid taxes on thei… https://t.co/LvwhivSPaA"
+411,0.128,Sat Feb 03 00:18:04 +0000 2018,41020384,0.108,0.762,0.13,The New York Times,"One of nearly 9,000 educators protected under DACA, Karen Reyes, who teaches deaf toddlers, has struggled to explai… https://t.co/RCMCBYePSv"
+412,0.0,Sat Feb 03 00:03:05 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/aKk9AQWU7t
+413,0.1779,Fri Feb 02 23:48:05 +0000 2018,41020384,0.118,0.694,0.188,The New York Times,Wells Fargo has been ordered to replace 4 board members and limit its growth after the company’s scandal over fraud… https://t.co/pHw1OAaOUF
+414,0.7096,Fri Feb 02 23:33:05 +0000 2018,41020384,0.0,0.688,0.312,The New York Times,"The Best TV shows and movies new to Netflix, Amazon and more in February https://t.co/M74NBd9LX2"
+415,0.0,Fri Feb 02 23:18:05 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,Plans by a Norwegian artist for an unusual new building next to the site of Edvard Munch’s studio have stirred a he… https://t.co/9b0tGuprby
+416,0.2975,Fri Feb 02 23:08:04 +0000 2018,41020384,0.0,0.901,0.099,The New York Times,"RT @NYTScience: When the anesthetic wore off, it was almost like these plants were regaining consciousness, something we typically don’t th…"
+417,0.0,Fri Feb 02 22:56:00 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"In an email to staff, Wayne Pacelle said that because “our mission depends on unity,” he was stepping aside to allo… https://t.co/7qRFMDl9VT"
+418,-0.4019,Fri Feb 02 22:50:16 +0000 2018,41020384,0.226,0.658,0.115,The New York Times,Breaking News: The CEO of the Humane Society of the United States resigned after sexual harassment allegations and… https://t.co/IDKlXlfBGY
+419,0.0,Fri Feb 02 22:43:07 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"The NYT review of Justin Timberlake's new album, ""Man of the Woods"" https://t.co/ikHJeLCwNI"
+420,0.0,Sat Feb 03 03:03:03 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"The NYT television review of ""Altered Carbon,"" Netflix’s ""Blade Runner"" replicant https://t.co/o1q9i2EOUh"
+421,0.0,Sat Feb 03 02:48:05 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,RT @MarkMazzettiNYT: NEW: Releasing the memo mattered less than #releasethememo. How Trump’s Allies Fanned an Ember of Controversy Into Fla…
+422,0.7783,Sat Feb 03 02:33:03 +0000 2018,41020384,0.081,0.599,0.32,The New York Times,"Opinion: ""He went from being a devoted and loving father and husband to someone who felt like a ghost in our home"" https://t.co/N1aVJ1W5D3"
+423,0.0,Sat Feb 03 02:18:06 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/JEaVEtF6tq
+424,0.0,Sat Feb 03 02:03:03 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"Dennis Edwards, former Temptations lead singer, dies at 74 https://t.co/zKe45kePqD"
+425,-0.1779,Sat Feb 03 01:48:05 +0000 2018,41020384,0.157,0.712,0.132,The New York Times,RT @arappeport: Payday lenders have gone from villains to victors under Trump’s watch. In April they’ll celebrate over golf at Trump Doral.…
+426,0.7677,Sat Feb 03 01:33:04 +0000 2018,41020384,0.0,0.796,0.204,The New York Times,"It can regrow its limbs and internal organs, but that may not be the most amazing thing about the axolotl. Turns ou… https://t.co/7XdVtd6rCH"
+427,0.0,Sat Feb 03 01:18:04 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"K. T. McFarland withdraws her nomination to be ambassador to Singapore
+https://t.co/LFhSAYgsd8"
+428,-0.3818,Sat Feb 03 01:03:02 +0000 2018,41020384,0.12,0.88,0.0,The New York Times,The flu hospitalization rate is the highest that the CDC has ever recorded at this point in the season https://t.co/DxCJ1QA1zJ
+429,0.5267,Sat Feb 03 00:48:02 +0000 2018,41020384,0.0,0.855,0.145,The New York Times,RT @nytpolitics: President Trump hinted that senior leaders at the Department of Justice and the F.B.I. should face consequences for conduc…
+430,0.0772,Sat Feb 03 00:33:05 +0000 2018,41020384,0.097,0.793,0.11,The New York Times,"Dozens of entrepreneurs, made newly wealthy by virtual currencies, have moved to Puerto Rico to avoid taxes on thei… https://t.co/LvwhivSPaA"
+431,0.128,Sat Feb 03 00:18:04 +0000 2018,41020384,0.108,0.762,0.13,The New York Times,"One of nearly 9,000 educators protected under DACA, Karen Reyes, who teaches deaf toddlers, has struggled to explai… https://t.co/RCMCBYePSv"
+432,0.0,Sat Feb 03 00:03:05 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/aKk9AQWU7t
+433,0.1779,Fri Feb 02 23:48:05 +0000 2018,41020384,0.118,0.694,0.188,The New York Times,Wells Fargo has been ordered to replace 4 board members and limit its growth after the company’s scandal over fraud… https://t.co/pHw1OAaOUF
+434,0.7096,Fri Feb 02 23:33:05 +0000 2018,41020384,0.0,0.688,0.312,The New York Times,"The Best TV shows and movies new to Netflix, Amazon and more in February https://t.co/M74NBd9LX2"
+435,0.0,Fri Feb 02 23:18:05 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,Plans by a Norwegian artist for an unusual new building next to the site of Edvard Munch’s studio have stirred a he… https://t.co/9b0tGuprby
+436,0.2975,Fri Feb 02 23:08:04 +0000 2018,41020384,0.0,0.901,0.099,The New York Times,"RT @NYTScience: When the anesthetic wore off, it was almost like these plants were regaining consciousness, something we typically don’t th…"
+437,0.0,Fri Feb 02 22:56:00 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"In an email to staff, Wayne Pacelle said that because “our mission depends on unity,” he was stepping aside to allo… https://t.co/7qRFMDl9VT"
+438,-0.4019,Fri Feb 02 22:50:16 +0000 2018,41020384,0.226,0.658,0.115,The New York Times,Breaking News: The CEO of the Humane Society of the United States resigned after sexual harassment allegations and… https://t.co/IDKlXlfBGY
+439,0.0,Fri Feb 02 22:43:07 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"The NYT review of Justin Timberlake's new album, ""Man of the Woods"" https://t.co/ikHJeLCwNI"
+440,0.0,Fri Feb 02 22:35:04 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"Kenya's government is defying a court order to put 4 private TV stations back on the air, escalating a week of poli… https://t.co/ZbaNVkpdbL"
+441,-0.2732,Fri Feb 02 22:31:19 +0000 2018,41020384,0.123,0.877,0.0,The New York Times,@pete_wells Salt Bae opened a steakhouse in New York City. We sent our restaurant critic @pete_wells.… https://t.co/MPjDTqFXmg
+442,0.0,Fri Feb 02 22:18:03 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,Our reporters analyzed the previously secret GOP memo on the Russia inquiry. Here are their notes alongside the mem… https://t.co/siCQcABdsg
+443,0.7351,Fri Feb 02 22:03:03 +0000 2018,41020384,0.0,0.754,0.246,The New York Times,RT @benshpigel: The Eagles' embrace of data and counterintuitive thinking powered them to the Super Bowl. I visited the analytics firm behi…
+444,0.6808,Fri Feb 02 21:51:06 +0000 2018,41020384,0.094,0.639,0.267,The New York Times,"Modern Love: ""I told myself that, despite my own past struggles with fidelity, I would do it better this time"" https://t.co/oUnM3BiIMD"
+445,-0.2023,Fri Feb 02 21:35:07 +0000 2018,41020384,0.158,0.714,0.128,The New York Times,"As more predators are being brought to justice, more men in England and Wales are reporting abuse and seeking help… https://t.co/GGSpaKVcoj"
+446,-0.2732,Fri Feb 02 21:20:07 +0000 2018,41020384,0.13,0.87,0.0,The New York Times,Salt Bae opened a steakhouse to New York City. We sent our restaurant critic @pete_wells. https://t.co/VQ1VoGD9jO
+447,0.0,Fri Feb 02 21:16:36 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"RT @amyfiscus: NEW: The FBI was a lot more forthcoming about Steele than the Nunes memo says, per the Dem memo https://t.co/EmYyFcHQ0T http…"
+448,-0.6808,Fri Feb 02 21:13:03 +0000 2018,41020384,0.248,0.752,0.0,The New York Times,Breaking News: Stocks ended a bad week with a sharp drop today. Investors appear to be skittish about rising intere… https://t.co/RD6CoDXsts
+449,0.0,Fri Feb 02 21:05:40 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"What if your employer made you wear a wristband that tracked your every move, and that even nudged you when it judg… https://t.co/yERq79UXlk"
+450,0.0,Fri Feb 02 20:55:00 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"2. ""Zora Neale Hurston Fieldwork Footage"" (1928): The author and anthropologist's look at ordinary black Southerner… https://t.co/fH92EvgSL7"
+451,0.7269,Fri Feb 02 20:47:14 +0000 2018,41020384,0.0,0.681,0.319,The New York Times,"Fettuccine with sausage and fried sage makes an elegant, satisfying 30 minute meal https://t.co/m4Lz70zseM https://t.co/S7lyzy6ZLT"
+452,-0.296,Fri Feb 02 20:30:19 +0000 2018,41020384,0.115,0.885,0.0,The New York Times,"Rebekah Martinez was reported missing in November, despite appearing on ""The Bachelor"" and being on social media https://t.co/uJQv5rmhwR"
+453,-0.9001,Fri Feb 02 20:15:11 +0000 2018,41020384,0.429,0.571,0.0,The New York Times,The worst flu season in nearly a decade has filled emergency rooms and strained resources at medical centers. “We t… https://t.co/QUNAGTqHQm
+454,-0.7964,Fri Feb 02 20:05:03 +0000 2018,41020384,0.253,0.747,0.0,The New York Times,"RT @jdelreal: My latest: The Brock Turner sexual assault case drew national outrage. Now, the effort to recall the judge has revealed sharp…"
+455,0.5413,Fri Feb 02 19:55:01 +0000 2018,41020384,0.0,0.757,0.243,The New York Times,These girls want to compete as Jamaica's first Olympic synchronized swimmers. Here's more good news: https://t.co/SBKv9OLdrl
+456,0.2023,Fri Feb 02 19:44:52 +0000 2018,41020384,0.0,0.917,0.083,The New York Times,RT @amyfiscus: What's NOT in the memo might be just as important as what is. @charlie_savage is annotating it live: https://t.co/XcmiuzQJ21
+457,0.0,Fri Feb 02 19:42:42 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"The full text of the memo released by House Republicans, annotated https://t.co/aez7u496OC"
+458,0.5994,Fri Feb 02 19:40:07 +0000 2018,41020384,0.0,0.849,0.151,The New York Times,"RT @nytimesmusic: When Justin Timberlake was announced as the performer for this year’s Super Bowl halftime show, the memory of one of pop’…"
+459,0.7906,Fri Feb 02 19:30:13 +0000 2018,41020384,0.0,0.696,0.304,The New York Times,The Charleston Gazette-Mail won a Pulitzer Prize last year for its dogged coverage of West Virginia's opioid crisis… https://t.co/Vo4wRzC00V
+460,0.0,Fri Feb 02 19:23:03 +0000 2018,41020384,0.1,0.8,0.1,The New York Times,The memo released by House Republicans falls short of what some promised: that it would cast doubt on the origins o… https://t.co/zyKN3U0GUl
+461,0.3612,Fri Feb 02 19:15:12 +0000 2018,41020384,0.0,0.848,0.152,The New York Times,Alec Baldwin skewers President Trump on SNL. And supports Woody Allen and James Toback. https://t.co/VMNgGI2KXj
+462,0.0,Fri Feb 02 19:00:18 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,An Arizona man said he sold 720 rounds of ammunition to the Las Vegas gunman https://t.co/nmsLE0yTQa
+463,0.2732,Fri Feb 02 18:50:09 +0000 2018,41020384,0.0,0.905,0.095,The New York Times,"The Met isn’t trying to create a slasher opera. But this director is flooding the theater's stage with over 1,000 g… https://t.co/aeZybVQf2n"
+464,-0.4588,Fri Feb 02 18:40:01 +0000 2018,41020384,0.182,0.818,0.0,The New York Times,7 Humane Society board members have resigned in protest of a decision to keep the CEO in the job despite allegation… https://t.co/eaiS33dE1d
+465,0.0,Fri Feb 02 18:30:09 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,Carter Page is at the center of the Republicans' newly released memo. @nytmag wrote a profile of him in December. https://t.co/bqV3u94G1b
+466,0.7783,Fri Feb 02 18:20:05 +0000 2018,41020384,0.081,0.599,0.32,The New York Times,"Opinion: ""He went from being a devoted and loving father and husband to someone who felt like a ghost in our home"" https://t.co/mdIktGBLLF"
+467,0.0,Fri Feb 02 18:06:52 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,Read the full text of the previously secret memo released by House Republicans https://t.co/0tuY7RCto4
+468,-0.3182,Fri Feb 02 17:53:08 +0000 2018,41020384,0.142,0.769,0.089,The New York Times,What changes are you seeing in how sexual harassment is being dealt with in your workplace and community? Share you… https://t.co/BMOUfAjBls
+469,-0.296,Fri Feb 02 17:42:08 +0000 2018,41020384,0.109,0.891,0.0,The New York Times,"Our film critics, looking at the complex history of black filmmaking in America, chose 28 essential works. Consider… https://t.co/dX1ajrKxqP"
+470,0.0,Fri Feb 02 17:36:43 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"Here's how to experiment with augmented reality now
+https://t.co/CNxYxZOwa0"
+471,0.1027,Fri Feb 02 17:20:07 +0000 2018,41020384,0.119,0.743,0.139,The New York Times,The memo alleges that senior government officials favored Democrats over Republicans and accuses federal law enforc… https://t.co/VEgZItK9xf
+472,-0.5574,Fri Feb 02 17:17:46 +0000 2018,41020384,0.184,0.816,0.0,The New York Times,Breaking News: House Republicans released a secret memo claiming abuses against President Trump in the Russia inqui… https://t.co/Ip4aRiIOLS
+473,0.3182,Fri Feb 02 17:08:23 +0000 2018,41020384,0.0,0.905,0.095,The New York Times,"The New York Times is about to expand our journalism so you can experience it in 3 dimensions, just by picking up y… https://t.co/0vKzJUYzGa"
+474,-0.7579,Fri Feb 02 17:00:47 +0000 2018,41020384,0.255,0.745,0.0,The New York Times,"RT @NYTHealth: Flu hospitalizations have soared, the C.D.C. reports, and the death rate may surpass the 2014-2015 season when 56,000 people…"
+475,0.25,Fri Feb 02 16:53:05 +0000 2018,41020384,0.0,0.895,0.105,The New York Times,"We answer your questions about applying for The Edit, a newsletter created specifically for college students and re… https://t.co/Pq7THOg12Z"
+476,0.0,Fri Feb 02 16:38:03 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,You can afford a financial planner for about the price of a bundled cable bill https://t.co/bRPPOG3ywT
+477,-0.4588,Fri Feb 02 16:13:04 +0000 2018,41020384,0.136,0.864,0.0,The New York Times,"RT @nytimesworld: The Interpreter: Six scenarios for the future of Afghanistan, and all of them admitting a form of defeat https://t.co/wh8…"
+478,-0.1531,Fri Feb 02 16:03:09 +0000 2018,41020384,0.086,0.914,0.0,The New York Times,A father of 2 women who spoke at the sentencing hearing of Larry Nassar lunged at him across a courtroom https://t.co/od7aeIgf5k
+479,-0.34,Fri Feb 02 15:44:05 +0000 2018,41020384,0.121,0.809,0.07,The New York Times,"RT @LizAldermanNYT: ""My baby almost died."" How did corporate lapses and lax oversight allow hundreds of babies to get sick in France from s…"
+480,0.0,Fri Feb 02 15:30:20 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,Opinion: Don't believe the liberal FBI https://t.co/7dDPM6wA6L
+481,-0.6908,Fri Feb 02 15:20:11 +0000 2018,41020384,0.28,0.623,0.097,The New York Times,"A bill in Poland sets prison penalties for using phrases like ""Polish death camps"" to refer to concentration camps… https://t.co/iivhPvXqlt"
+482,0.7906,Fri Feb 02 15:10:03 +0000 2018,41020384,0.0,0.75,0.25,The New York Times,"The second line of Canada's anthem will soon become ""True patriot love in all of us command"" rather than ""in all th… https://t.co/RjreK5q3Lu"
+483,-0.5267,Fri Feb 02 15:08:54 +0000 2018,41020384,0.173,0.827,0.0,The New York Times,"RT @matthewhaag: “We’d have no C.E.O.s and no executives of American companies if none of them had affairs,” Humane Society board member sa…"
+484,0.0,Fri Feb 02 15:00:28 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/89lgwl53d1 https://t.co/AGSKJqLiM4
+485,0.8316,Fri Feb 02 14:49:04 +0000 2018,41020384,0.0,0.698,0.302,The New York Times,"""For probably, say, five minutes in actual, real time, I thought I was going to be a Super Bowl champion. And then,… https://t.co/nYWf9y4cSw"
+486,0.0,Fri Feb 02 14:40:08 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"The Simpsons predicted the Trump presidency, the discovery of the Higgs boson particle and Disney’s takeover of Fox https://t.co/EK5ocLTOyz"
+487,-0.4404,Fri Feb 02 14:31:04 +0000 2018,41020384,0.244,0.756,0.0,The New York Times,"Video: What is a ""bloody nose"" strategy in North Korea? https://t.co/GhSxeXcnoH"
+488,0.0,Fri Feb 02 14:16:05 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"Last month it seemed that Democrats might ride a giant tsunami to control of the House and Senate. Now, some are wo… https://t.co/9e6iUvA3TD"
+489,0.0,Fri Feb 02 14:16:01 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,"RT @HannaIngber: An inside look at how journalists try to make sense of jobs day, by @bencasselman https://t.co/5Z26HQ9ICH"
+490,-0.7506,Fri Feb 02 14:00:17 +0000 2018,41020384,0.262,0.738,0.0,The New York Times,"Nearly 50 people suspected of using and selling drugs were killed by officers in the past 2 months, the Philippine… https://t.co/HXpB5hnnzt"
+491,0.4215,Fri Feb 02 13:50:06 +0000 2018,41020384,0.0,0.833,0.167,The New York Times,"A trucker intentionally drove his tractor-trailer off a roadway that runs through a 2,000-year-old United Nations W… https://t.co/OjCpF1OWcy"
+492,-0.4767,Fri Feb 02 13:40:05 +0000 2018,41020384,0.307,0.693,0.0,The New York Times,Do hangovers get worse as we age? https://t.co/MSdnwwqK6M
+493,0.2263,Fri Feb 02 13:36:54 +0000 2018,41020384,0.0,0.909,0.091,The New York Times,"Breaking News: The U.S. economy added 200,000 jobs in January. It was the 88th straight month that hiring increased… https://t.co/ZAYyZIHcVO"
+494,-0.4588,Fri Feb 02 13:30:18 +0000 2018,41020384,0.143,0.857,0.0,The New York Times,"Jimmy Kimmel attacked Devin Nunes, a key figure in the release of the secret GOP memo. Our late-night roundup: https://t.co/TmGN2rcoa1"
+495,-0.0258,Fri Feb 02 13:20:10 +0000 2018,41020384,0.064,0.936,0.0,The New York Times,"A Wisconsin teenager in the ""Slender Man"" stabbing case was sentenced to 40 years in a psychiatric hospital https://t.co/qQ7FEKRGT6"
+496,0.875,Fri Feb 02 13:11:02 +0000 2018,41020384,0.0,0.63,0.37,The New York Times,"Devin Nunes, the man behind a secret Republican memo, has won praise from party members he once called ""lemmings in… https://t.co/DXlHhn4W7K"
+497,0.0,Fri Feb 02 13:00:23 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/oDTp0MoSzS https://t.co/6AyejpbtdL
+498,-0.7003,Fri Feb 02 12:49:08 +0000 2018,41020384,0.254,0.746,0.0,The New York Times,The White House has grown frustrated by what it considers the Pentagon's reluctance to provide President Trump with… https://t.co/CGYVkXjthq
+499,0.0,Fri Feb 02 12:40:07 +0000 2018,41020384,0.0,1.0,0.0,The New York Times,The board of the Humane Society decided to retain its CEO despite an investigation that has uncovered multiple hara… https://t.co/lpMhIxwuTy
