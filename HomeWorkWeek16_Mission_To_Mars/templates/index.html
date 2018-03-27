@@ -7,12 +7,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Mars Data</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
-      crossorigin="anonymous">
+        crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0/slate/bootstrap.min.css">
-  </head>
+</head>
 
 <body>
-  <div class="container">
+    <div class="container">
 
         <div class="jumbotron" style="text-align: center">
             <h1>Mission to Mars</h1>
@@ -85,42 +85,45 @@
                             <h3 style="text-align: center">Mars Hemispheres</h3>
                             <hr>
                         </div>
-                       <div class="row">
-                           
-                               <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                                   <a href="{{dict['hemisphere_images'][0]['img_url']}}" class="thumbnail">
-                                       <img src="{{dict['hemisphere_images'][0]['img_url']}}" alt="">
-                                       <h4 style="text-align: center">{{dict.hemisphere_images[0].title}}</h4>
-                                   </a>
-                               </div>
-                               
-                               <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                                    <a href="{{dict['hemisphere_images'][1]['img_url']}}" class="thumbnail">
-                                        <img src="{{dict['hemisphere_images'][1]['img_url']}}" alt="">
-                                        <h4 style="text-align: center">{{dict.hemisphere_images[1].title}}</h4>
-                                    </a>
-                                </div>
-                       </div>
-                       <div class="row">
-                            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                                    <a href="{{dict['hemisphere_images'][2]['img_url']}}" class="thumbnail">
-                                        <img src="{{dict['hemisphere_images'][2]['img_url']}}" alt="">
-                                        <h4 style="text-align: center">{{dict.hemisphere_images[2].title}}</h4>
-                                    </a>
+                        <br>
+                        <div class="row" style = "padding-bottom: 10px">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <a href="{{dict['hemisphere_images'][0]['img_url']}}" class="thumbnail">
+                                    <img class = "img img-responsive" src="{{dict['hemisphere_images'][0]['img_url']}}" style="width:100%" alt="">
+                                    <h4 style="text-align: center">{{dict.hemisphere_images[0].title}}</h4>
+                                </a>
                             </div>
-                                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                                            <a href="{{dict['hemisphere_images'][3]['img_url']}}" class="thumbnail">
-                                                <img src="{{dict['hemisphere_images'][3]['img_url']}}" alt="">
-                                                <h4 style="text-align: center">{{dict.hemisphere_images[3].title}}</h4>
-                                            </a>
-                                        </div>
-                                </div>
-                       </div>
+                            <br>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <a href="{{dict['hemisphere_images'][1]['img_url']}}" class="thumbnail">
+                                    <img class = "img img-responsive" src="{{dict['hemisphere_images'][1]['img_url']}}" style="width:100%" alt="">
+                                    <h4 style="text-align: center">{{dict.hemisphere_images[1].title}}</h4>
+                                </a>
+                            </div>
+                        </div>
+                        <br>
+                        <div class="row" style = "padding-bottom: 10px">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <a href="{{dict['hemisphere_images'][2]['img_url']}}" class="thumbnail">
+                                    <img class = "img img-responsive" src="{{dict['hemisphere_images'][2]['img_url']}}" style="width:100%" alt="">
+                                    <h4 style="text-align: center">{{dict.hemisphere_images[2].title}}</h4>
+                                </a>
+                            </div>
+                            <br>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <a href="{{dict['hemisphere_images'][3]['img_url']}}" class="thumbnail">
+                                    <img class = "img img-responsive" src="{{dict['hemisphere_images'][3]['img_url']}}" style="width:100%" alt="">
+                                    <h4 style="text-align: center">{{dict.hemisphere_images[3].title}}</h4>
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                
             </div>
+
         </div>
+    </div>
+
 </body>
 
 </html>
