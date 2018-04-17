@@ -1,0 +1,52 @@
+id,state,abbr,below_poverty,no_healthcare,no_physical_activity
+1,Alabama,AL,17.1,16.02,29.44
+2,Alaska,AK,9.9,12.32,19.07
+4,Arizona,AZ,16.4,15.47,23.08
+5,Arkansas,AR,17.2,12.98,32.51
+6,California,CA,14.3,12.85,20.46
+8,Colorado,CO,11,12.73,15.83
+9,Connecticut,CT,9.8,8.2,21.27
+10,Delaware,DE,11.7,10.92,26.64
+11,District of Columbia,DC,18.6,5.92,16.16
+12,Florida,FL,14.7,21.4,29.8
+13,Georgia,GA,16,20.32,29.42
+15,Hawaii,HI,9.3,8.32,20.79
+16,Idaho,ID,14.4,18.94,20.22
+17,Illinois,IL,13,10.69,23.91
+18,Indiana,IN,14.1,13.62,26.8
+19,Iowa,IA,11.8,7.8,22.66
+20,Kansas,KS,12.1,15.89,23.5
+21,Kentucky,KY,18.5,6.84,29.79
+22,Louisiana,LA,20.2,16.74,29.12
+23,Maine,ME,12.5,11.21,20.61
+24,Maryland,MD,9.7,10.16,23.15
+25,Massachusetts,MA,10.4,6.82,19.99
+26,Michigan,MI,15,9.85,23.88
+27,Minnesota,MN,9.9,7.71,17.98
+28,Mississippi,MS,20.8,20.19,30.32
+29,Missouri,MO,14,13.77,24.93
+30,Montana,MT,13.3,12.39,19.9
+31,Nebraska,NE,11.4,14.74,22.45
+32,Nevada,NV,13.8,17.88,24.68
+33,New Hampshire,NH,7.3,8.28,19.33
+34,New Jersey,NJ,10.4,13.12,29.75
+35,New Mexico,NM,19.8,12,20.26
+36,New York,NY,14.7,11.39,26.34
+37,North Carolina,NC,15.4,17.05,23.27
+38,North Dakota,ND,10.7,9.31,22.19
+39,Ohio,OH,14.6,8.37,25.9
+40,Oklahoma,OK,16.3,18.35,28.46
+41,Oregon,OR,13.3,11.37,17.24
+42,Pennsylvania,PA,12.9,8.51,22.88
+44,Rhode Island,RI,12.8,9.17,24.35
+45,South Carolina,SC,15.3,16.24,26.87
+46,South Dakota,SD,13.3,10.28,18.93
+47,Tennessee,TN,15.8,13.91,28.43
+48,Texas,TX,15.6,25.59,25.19
+49,Utah,UT,10.2,13.34,15.68
+50,Vermont,VT,11.9,6.23,19.51
+51,Virginia,VA,11,13.72,23.33
+53,Washington,WA,11.3,10.57,17.64
+54,West Virginia,WV,17.9,9.31,28.52
+55,Wisconsin,WI,11.8,10.27,19.96
+56,Wyoming,WY,11.3,16.82,23.14
